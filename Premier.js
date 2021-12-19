@@ -34,6 +34,8 @@ export default function App() {
             <div
               style={{
                 padding: '3px',
+                width: '30px',
+                textAlign: 'center',
                 border: '1px solid black',
                 ...premierStyle,
               }}
