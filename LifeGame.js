@@ -13,10 +13,9 @@ const buttonStyle = {
 const getRandomBoolean = () => Math.random() < 0.5;
 
 const getArray = () => {
-  let array = [];
-  for (let i = 0; i < row; i++) {
-    array[i] = [];
-    for (let j = 0; j < col; j++) {
+  let array = Array.from(Array(row), () => new Array(col).fill(false));
+  for (let i = 1; i < row - 1; i++) {
+    for (let j = 1; j < col - 1; j++) {
       array[i][j] = getRandomBoolean();
     }
   }
@@ -24,14 +23,34 @@ const getArray = () => {
 };
 
 const getNewArray = (array) => {
-  let newArray = [];
-  for (let i = 0; i < row; i++) {
-    newArray[i] = [];
-    for (let j = 0; j < col; j++) {
-      newArray[i][j] = !array[i][j];
+  let newArray = array;
+  for (let i = 1; i < row - 1; i++) {
+    for (let j = 1; j < col - 1; j++) {
+      const reducedArray = getReducedArray(newArray, i, j);
+      if (array[i][j] === true) {
+        newArray[i][j] = has3Neighbors(reducedArray);
+      } else newArray[i][j] = has2or3Neighbors(reducedArray);
     }
   }
   return newArray;
+};
+
+const getReducedArray = (array, i, j) => {
+  const reducedArray = [
+    [array[i - 1][j - 1], array[i - 1][j], array[i - 1][j + 1]],
+    [array[i][j - 1], array[i][j], array[i][j + 1]],
+    [array[i + 1][j - 1], array[i + 1][j], array[i + 1][j + 1]],
+  ];
+  return reducedArray;
+};
+const has3Neighbors = (array) => {
+  return nbOfTrue(array) === 3;
+};
+const has2or3Neighbors = (array) => {
+  return nbOfTrue(array) === 3 || nbOfTrue(array) === 4;
+};
+const nbOfTrue = (array) => {
+  return array.flatMap((e) => e).filter((e) => e).length;
 };
 
 export default function App() {
