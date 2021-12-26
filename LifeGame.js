@@ -1,31 +1,31 @@
 import React from 'react';
 import './style.css';
 
+const N = 5000;
+
+const buttonStyle = {
+  marginBottom: '10px',
+  width: '100px',
+  height: '30px',
+};
+
+const getRandomBool = () => Math.random() < 0.5;
+
+const getArray = () => {
+  let list = [];
+  for (let i = 0; i <= N; i++) {
+    const val = getRandomBool();
+    list.push(val);
+  }
+  return list;
+};
+
 export default function App() {
-  const N = 5000;
-
-  const getArray = () => {
-    let list = [];
-    for (let i = 0; i <= N; i++) {
-      const val = Math.random() < 0.5;
-      list.push(val);
-    }
-    return list;
-  };
-
-  const array0 = getArray();
-
-  const [array, setArray] = React.useState(array0);
+  const [array, setArray] = React.useState(getArray());
 
   const handleNext = () => {
     const newArray = getArray();
     setArray(newArray);
-  };
-
-  const buttonStyle = {
-    marginBottom: '10px',
-    width: '100px',
-    height: '30px',
   };
 
   React.useEffect(() => {
