@@ -1,7 +1,8 @@
 import React from 'react';
 import './style.css';
 
-const N = 5000;
+const col = 15;
+const row = 20;
 
 const buttonStyle = {
   marginBottom: '10px',
@@ -9,22 +10,35 @@ const buttonStyle = {
   height: '30px',
 };
 
-const getRandomBool = () => Math.random() < 0.5;
+const getRandomBoolean = () => Math.random() < 0.5;
 
 const getArray = () => {
-  let list = [];
-  for (let i = 0; i <= N; i++) {
-    const val = getRandomBool();
-    list.push(val);
+  let array = [];
+  for (let i = 0; i < row; i++) {
+    array[i] = [];
+    for (let j = 0; j < col; j++) {
+      array[i][j] = getRandomBoolean();
+    }
   }
-  return list;
+  return array;
+};
+
+const getNewArray = (array) => {
+  let newArray = [];
+  for (let i = 0; i < row; i++) {
+    newArray[i] = [];
+    for (let j = 0; j < col; j++) {
+      newArray[i][j] = !array[i][j];
+    }
+  }
+  return newArray;
 };
 
 export default function App() {
   const [array, setArray] = React.useState(getArray());
 
   const handleNext = () => {
-    const newArray = getArray();
+    const newArray = getNewArray(array);
     setArray(newArray);
   };
 
@@ -33,30 +47,34 @@ export default function App() {
       handleNext();
     }, 2000);
     return () => clearInterval(interval);
-  }, []);
+  }, [handleNext]);
 
   return (
     <div>
       <button onClick={handleNext} style={buttonStyle}>
         Next
       </button>
-      <div style={{ display: 'flex', flexWrap: 'wrap' }}>
-        {array.map((e) => {
-          const style = e && {
-            background: 'grey',
-          };
+      <div style={{ display: 'flex', flexDirection: 'column' }}>
+        {array.map((row) => {
           return (
-            <div
-              style={{
-                padding: '3px',
-                width: '30px',
-                height: '30px',
-                textAlign: 'center',
-                border: '1px solid black',
-                ...style,
-              }}
-            >
-              {e}
+            <div style={{ display: 'flex', flexDirection: 'row' }}>
+              {row.map((cell) => {
+                const style = cell && {
+                  background: 'grey',
+                };
+                return (
+                  <div
+                    style={{
+                      padding: '3px',
+                      width: '30px',
+                      height: '30px',
+                      textAlign: 'center',
+                      border: '1px solid black',
+                      ...style,
+                    }}
+                  />
+                );
+              })}
             </div>
           );
         })}
