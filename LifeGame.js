@@ -1,11 +1,12 @@
 import React from 'react';
 import './style.css';
 
-const col = 15;
-const row = 20;
+const col = 5;
+const row = 5;
 
 const buttonStyle = {
   marginBottom: '10px',
+  marginRight: '5px',
   width: '100px',
   height: '30px',
 };
@@ -28,8 +29,8 @@ const getNewArray = (array) => {
     for (let j = 1; j < col - 1; j++) {
       const reducedArray = getReducedArray(newArray, i, j);
       if (array[i][j] === true) {
-        newArray[i][j] = has3Neighbors(reducedArray);
-      } else newArray[i][j] = has2or3Neighbors(reducedArray);
+        newArray[i][j] = has2or3Neighbors(reducedArray);
+      } else newArray[i][j] = has3Neighbors(reducedArray);
     }
   }
   return newArray;
@@ -61,6 +62,11 @@ export default function App() {
     setArray(newArray);
   };
 
+  const handleGenerate = () => {
+    const newArray = getArray();
+    setArray(newArray);
+  };
+
   React.useEffect(() => {
     const interval = setInterval(() => {
       handleNext();
@@ -72,6 +78,9 @@ export default function App() {
     <div>
       <button onClick={handleNext} style={buttonStyle}>
         Next
+      </button>
+      <button onClick={handleGenerate} style={buttonStyle}>
+        Generate
       </button>
       <div style={{ display: 'flex', flexDirection: 'column' }}>
         {array.map((row) => {
