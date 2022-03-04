@@ -18,6 +18,7 @@ La dernière version de Visual Studio Code se trouve [ici](https://code.visualst
 - [Prettier ESLint](https://marketplace.visualstudio.com/items?itemName=rvest.vs-code-prettier-eslint)
 - [vscode-styled-components](https://marketplace.visualstudio.com/items?itemName=jpoissonnier.vscode-styled-components)
 - [Glean](https://marketplace.visualstudio.com/items?itemName=wix.glean)
+- [Template string converter](https://marketplace.visualstudio.com/items?itemName=meganrogge.template-string-converter)
 
 
 ## Configuration de Git avec VS Code
