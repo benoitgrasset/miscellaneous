@@ -3,3 +3,6 @@
 - [Tableau périodique des éléments HTML](https://madebymike.github.io/html5-periodic-table/#html)
 - [HTMhell](https://www.htmhell.dev/)
 - [CSS Grid Generator](https://cssgrid-generator.netlify.app/)
+- [devdocs](https://devdocs.io/)
+- [The Modern Javascript Tutorial](https://javascript.info/)
+- [JS bundlers report](https://bundlers.tooling.report/)
