@@ -6,3 +6,4 @@
 - [devdocs](https://devdocs.io/)
 - [The Modern Javascript Tutorial](https://javascript.info/)
 - [JS bundlers report](https://bundlers.tooling.report/)
+- [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
