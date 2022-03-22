@@ -34,6 +34,7 @@ La dernière version de Visual Studio Code se trouve [ici](https://code.visualst
 - [Glean](https://marketplace.visualstudio.com/items?itemName=wix.glean)
 - [Template string converter](https://marketplace.visualstudio.com/items?itemName=meganrogge.template-string-converter)
 - [Auto Rename Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag)
+- [GitLive](https://marketplace.visualstudio.com/items?itemName=TeamHub.teamhub)
 
 
 ## Configuration de Git avec VS Code
