@@ -68,11 +68,6 @@ Storybook est une bibliothèque qui permet de regrouper tous nos composants dans
 
 - [Homebrew](https://brew.sh/index_fr) un gestionnaire de paquets pour macos
 - [N](https://formulae.brew.sh/formula/n) un gestionnaire de versions pour Node.js
-
-Attention pour les utilisateurs de Homebrew : Un `brew update / brew upgrade` automatiquement met à jour toutes les paquets et une dependance actuelle du portail (node-gyp) nous empêche d'utiliser les versions de node superieur à 14.X.X. Car, avec `n`, c'est possible de pinner une version de node, p.e. :
-````
-    n 14.17.0
-````
 - [Node.js](https://nodejs.org/en/) le fameux runtime javascript
 
 Pour garantir le bon fonctionnement des tests, il faut ajouter le locale dans le fichier config de la shell :
