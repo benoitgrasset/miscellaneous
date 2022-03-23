@@ -83,3 +83,4 @@ Pour garantir le bon fonctionnement des tests, il faut ajouter le locale dans le
 - [iterm2](https://iterm2.com/downloads.html) un terminal enrichi pour macos
 - [Postman](https://www.postman.com/downloads/) une plateforme pour tester son API REST
 - [Thunder Client](https://marketplace.visualstudio.com/items?itemName=rangav.vscode-thunder-client) une alternative de Postman directement dans VSCode
+- [maccy](https://maccy.app/) Clipboard manager for macOS
