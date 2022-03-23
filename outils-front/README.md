@@ -84,3 +84,4 @@ Pour garantir le bon fonctionnement des tests, il faut ajouter le locale dans le
 - [Postman](https://www.postman.com/downloads/) une plateforme pour tester son API REST
 - [Thunder Client](https://marketplace.visualstudio.com/items?itemName=rangav.vscode-thunder-client) une alternative de Postman directement dans VSCode
 - [maccy](https://maccy.app/) Clipboard manager for macOS
+- [ubar](https://brawersoftware.com/products/ubar) The Dock replacement for the Mac
