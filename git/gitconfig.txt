@@ -1,0 +1,13 @@
+[user]
+	email = bgrasset@payplug.com
+	name = Benoit
+[core]
+	editor = code --wait
+[diff]
+        tool = default-difftool
+[difftool "default-difftool"]
+        cmd = code --wait --diff $LOCAL $REMOTE
+[fetch]
+	prune = true
+[alias]
+	rename = !/Users/bgrasset/Documents/git-rename.bat

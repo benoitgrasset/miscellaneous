@@ -1,0 +1,17 @@
+
+#!/bin/zsh
+. "$(dirname "$0")/_/husky.sh"
+
+IFS=$'\n'
+# regex supports mono-repos with a package.json at root-level and at package-level
+YARN_LOCK_REGEX="(^packages\/.*\/yarn-lock\.json)|(^yarn-lock\.json)"
+# extract all paths to yarn-lock.json files 
+PACKAGES=("$(git diff --name-only HEAD@{1} HEAD | grep -E "$YARN_LOCK_REGEX")")
+
+if [[ ${PACKAGES[@]} ]]; then
+  for package in $PACKAGES; do
+    echo "📦 $package was changed. Running yarn to update your dependencies..."
+    DIR=$(dirname package)
+    cd "$DIR" && yarn
+  done
+fi
