@@ -1,0 +1,43 @@
+#### .bashrc
+
+```
+if [ -z "$(pgrep ssh-agent)" ]; then
+   rm -rf /tmp/ssh-*
+   eval $(ssh-agent -s) > /dev/null
+else
+   export SSH_AGENT_PID=$(pgrep ssh-agent)
+   export SSH_AUTH_SOCK=$(find /tmp/ssh-* -name agent.*)
+fi
+```
+
+
+#### print SSH agent
+```
+eval "$(ssh-agent -s)"
+```
+#### add SSH agent
+```
+ssh-add /mnt/c/Users/benoi/.ssh/id_ed25519
+```
+
+#### set read and write permission
+```
+chmod 600 /mnt/c/Users/benoi/.ssh/id_ed25519
+```
+
+####  read and execute the content of a file
+```
+source ~/.bashrc
+```
+
+#### historique des commandes
+```
+~/.bash_history
+```
+
+```
+code ~/.zshrc
+```
+```
+code ~/.bashrc
+```
