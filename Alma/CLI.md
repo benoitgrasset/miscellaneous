@@ -35,6 +35,7 @@ source ~/.bashrc
 ~/.bash_history
 ```
 
+#### open shell config files
 ```
 code ~/.zshrc
 ```
