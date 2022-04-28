@@ -17,7 +17,12 @@ eval "$(ssh-agent -s)"
 ```
 #### add SSH agent
 ```
-ssh-add /mnt/c/Users/benoi/.ssh/id_ed25519
+ssh-keygen -t ed25519 -C "benoit.grasset@getalma.eu"
+ssh-add ~/.ssh/id_ed25519
+```
+#### add in SSH and GPG keys section in github settings
+```
+cat ~/.ssh/id_ed25519.pub
 ```
 
 #### set read and write permission
