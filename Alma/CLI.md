@@ -67,3 +67,8 @@ mkcert -key-file ./.cert/key.pem -cert-file ./.cert/cert.pem "localhost"
 ```
 chrome://restart
 ```
+
+#### install .deb package
+```
+sudo dpkg -i package_file.deb
+```
