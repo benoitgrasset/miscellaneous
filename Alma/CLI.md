@@ -48,8 +48,18 @@ code ~/.zshrc
 code ~/.bashrc
 ```
 
-#### install docker compose previous version
+#### install docker compose previous version (Linux Standalone Library)
 ```
 curl -SL https://github.com/docker/compose/releases/download/1.29.2/docker-compose-linux-x86_64 -o /usr/local/bin/docker-compose
 sudo chmod +x /usr/local/bin/docker-compose
 ```
+
+#### Use a self signed certificate
+```
+sudo apt install libnss3-tools
+sudo apt install mkcert
+mkcert -install
+mkdir -p .cert
+mkcert -key-file ./.cert/key.pem -cert-file ./.cert/cert.pem "localhost"
+```
+
