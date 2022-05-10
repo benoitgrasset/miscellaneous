@@ -72,3 +72,8 @@ chrome://restart
 ```
 sudo dpkg -i package_file.deb
 ```
+
+#### kill process on port 3000
+```
+sudo kill -9 $(sudo lsof -t -i:3000)
+```
