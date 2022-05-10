@@ -77,3 +77,9 @@ sudo dpkg -i package_file.deb
 ```
 sudo kill -9 $(sudo lsof -t -i:3000)
 ```
+
+#### run payment page on port 3000
+add the following command line on "me.env" file (main)
+```
+CHECKOUT_PAYMENT_PAGE_URL="https://localhost:3000/{}"
+```
