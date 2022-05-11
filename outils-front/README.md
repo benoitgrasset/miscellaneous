@@ -59,6 +59,13 @@ Pour automatiquement nettoyer les objets Git du répertoire local à chaque fetc
     git config --global fetch.prune true
 ```
 
+Pour appliquer les corrections ESLint partout:
+```
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
+  },
+```
+
 ## Storybook
 
 Storybook est une bibliothèque qui permet de regrouper tous nos composants dans une sandbox, isolés du reste de l'application. On y décrit chaque composant avec ses différentes props. C'est un outil à la fois de tests et de documentation qui permet de faire le lien entre les développeurs et les designers.
