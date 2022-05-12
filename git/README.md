@@ -13,4 +13,8 @@ git rebase --quit
 git pull --rebase
 ```
 
+```
+git config --global fetch.prune true
+```
+
 git pull = git fetch && git merge
