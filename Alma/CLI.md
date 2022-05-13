@@ -83,3 +83,8 @@ add the following command line on "me.env" file (main)
 ```
 CHECKOUT_PAYMENT_PAGE_URL="https://localhost:3000/{}"
 ```
+
+#### use a specific node version
+```
+nvm use 16.13.2
+```
