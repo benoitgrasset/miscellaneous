@@ -88,3 +88,13 @@ CHECKOUT_PAYMENT_PAGE_URL="https://localhost:3000/{}"
 ```
 nvm use 16.13.2
 ```
+
+#### List all vs code extensions
+```
+code --list-extensions
+```
+
+#### Get the location of a package
+```
+which node nodejs
+```
