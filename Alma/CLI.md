@@ -94,7 +94,7 @@ nvm use 16.13.2
 code --list-extensions
 ```
 
-#### Get the location of a package
+#### Get the location of an executable
 ```
 which node nodejs
 ```
