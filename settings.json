@@ -1,0 +1,41 @@
+{
+  "security.workspace.trust.untrustedFiles": "open",
+  "editor.bracketPairColorization.enabled": true,
+  "[typescriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[html]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[typescript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "json.schemas": [
+  
+  ],
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
+  },
+  "extensions.ignoreRecommendations": true,
+  "[json]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "typescript.updateImportsOnFileMove.enabled": "always",
+  "explorer.confirmDragAndDrop": false,
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "sonarlint.ls.javaHome": "/home/benoit/.vscode/extensions/sonarsource.sonarlint_managed-jre/jre/jdk-11.0.15+10-jre",
+  "sonarlint.rules": {
+  
+  },
+  "sonarlint.connectedMode.connections.sonarqube": [
+    {
+      "serverUrl": "",
+      "token": ""
+    }
+  ],
+  "sonarlint.connectedMode.project": {
+    "projectKey": ""
+},
+  "sonarlint.output.showAnalyzerLogs": true,
+  "sonarlint.output.showVerboseLogs": true
+}
