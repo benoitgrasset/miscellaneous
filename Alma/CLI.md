@@ -98,3 +98,8 @@ code --list-extensions
 ```
 which node nodejs
 ```
+
+#### Slack
+```
+/assist
+```
