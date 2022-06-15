@@ -107,6 +107,7 @@ which node nodejs
 #### Tags admin
 ```
 id_verif:new_page | id_verif:old_page
-
+```
+```
 new_payment_page
 ```
