@@ -94,7 +94,7 @@ nvm use 16.13.2
 code --list-extensions
 ```
 
-### Display what the tests look like
+#### Display what the tests look like
 ```
 screen.logTestingPlaygroundURL(document.body)
 ```
