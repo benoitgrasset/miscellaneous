@@ -114,8 +114,11 @@ which node nodejs
 id_verif:new_page | id_verif:old_page
 ```
 ```
-new_payment_page
+feature:new_payment_page
 ```
 ```
 feature:sepa_payment_method
+```
+```
+feature:new_b2b_kyc
 ```
