@@ -122,3 +122,6 @@ feature:sepa_payment_method
 ```
 feature:new_b2b_kyc
 ```
+```
+feature:bancontact_payment_method
+```
