@@ -104,6 +104,11 @@ screen.logTestingPlaygroundURL(document.body)
 which node nodejs
 ```
 
+#### Find the version of an installed npm package
+```
+npm list react-phone-number-input
+```
+
 #### Slack
 ```
 /assist
