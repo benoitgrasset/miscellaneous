@@ -109,12 +109,23 @@ which node nodejs
 npm list react-phone-number-input
 ```
 
+#### Display RAM usage
+```
+watch free -h | sudo swapon --show | sudo swapon -s
+```
+
+#### Print the message buffer of the kernel
+```
+sudo dmesg -T
+```
+
 #### Slack
 ```
 /assist
 ```
 
 #### Tags admin
+Can be found in **lib/known_tags.py**
 ```
 id_verif:new_page | id_verif:old_page
 ```
