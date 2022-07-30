@@ -18,3 +18,14 @@ git config --global fetch.prune true
 ```
 
 git pull = git fetch && git merge
+
+
+#### hooks - husky
+
+```
+pre-commit
+```
+```
+post-merge
+```
+lint-staged, commitlint, git-precommit-checks
