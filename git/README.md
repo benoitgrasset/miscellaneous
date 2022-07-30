@@ -29,4 +29,7 @@ pre-commit
 post-merge
 ```
 
-lint-staged, commitlint, commitizen (feat, fix, docs, style, refactor, perf, chore, revert, test, build, ci, ...), git-precommit-checks, validate-branch-name
+- lint-staged
+- commitlint, commitizen (feat, fix, docs, style, refactor, perf, chore, revert, test, build, ci, ...)
+- git-precommit-checks
+- validate-branch-name
