@@ -68,6 +68,9 @@ Pour appliquer les corrections ESLint partout:
   },
 ```
 
+** Settings **
+- Preferences -> Settings -> Files: Insert Final Newline
+
 ## Storybook
 
 Storybook est une bibliothèque qui permet de regrouper tous nos composants dans une sandbox, isolés du reste de l'application. On y décrit chaque composant avec ses différentes props. C'est un outil à la fois de tests et de documentation qui permet de faire le lien entre les développeurs et les designers.
