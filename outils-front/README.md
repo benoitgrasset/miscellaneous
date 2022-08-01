@@ -68,7 +68,7 @@ Pour appliquer les corrections ESLint partout:
   },
 ```
 
-** Settings **
+**Settings**
 - Preferences -> Settings -> Files: Insert Final Newline
 
 ## Storybook
