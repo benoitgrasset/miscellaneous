@@ -16,4 +16,9 @@ sudo apt-get install -y mongodb-org
 
 sudo service mongod start
 sudo service mongod status
+
+mongosh
+show dbs
+
+db.users.insertOne({})
 ```
