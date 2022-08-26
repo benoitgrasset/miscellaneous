@@ -2,6 +2,8 @@
 
 MongoDB Compass
 
+database > collections > documents
+
 
 ```
 wget -qO - https://www.mongodb.org/static/pgp/server-6.0.asc | sudo apt-key add -
