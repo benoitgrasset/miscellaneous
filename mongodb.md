@@ -55,7 +55,7 @@ db.users.updateOne({ age: 26}, { $inc: { age: 3 } })    (increment by 3)
 db.users.updateOne({ age: 26}, { $rename: { name: "firstName" } })     (rename "name" property to "firstName") 
 db.users.updateOne({ age: 26}, { $unset: { age: "" } })    (remove age property)
 db.users.updateOne({ age: 26}, { $push: { hobbies: "Swimming" } })    (add "Swimming" to hobbies array)
-db.users.updateOne({ age: 26}, { $pull: { hobbies: "Bowling" } })    (remove "Bowling" to hobbies array)
+db.users.updateOne({ age: 26}, { $pull: { hobbies: "Bowling" } })    (remove "Bowling" from hobbies array)
 db.users.deleteOne({ })
 db.users.deleteMany({ })
 ```
