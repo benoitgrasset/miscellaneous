@@ -1,3 +1,9 @@
+#### Install
+
+Install MongoDb and mongosh
+
+https://www.mongodb.com/docs/manual/installation/
+
 #### Tool
 
 MongoDB Compass / Mongoose
