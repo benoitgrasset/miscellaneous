@@ -1,6 +1,6 @@
 #### Install
 
-Install MongoDb and mongosh
+Install MongoDB and mongosh
 
 https://www.mongodb.com/docs/manual/installation/
 
