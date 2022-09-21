@@ -27,6 +27,8 @@ sudo service mongod status
 
 mongosh
 show dbs
+use database
+show collections
 
 db.users.insertOne({})
 ```
