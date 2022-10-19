@@ -15,3 +15,6 @@ if [[ ${PACKAGES[@]} ]]; then
     cd "$DIR" && yarn
   done
 fi
+
+## solution #2
+git diff-tree -r --name-only --no-commit-id HEAD@{1} HEAD | grep --quiet yarn.lock && yarn
