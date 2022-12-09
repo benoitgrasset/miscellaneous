@@ -8,6 +8,8 @@ https://www.mongodb.com/docs/manual/installation/
 
 MongoDB Compass / Mongoose
 
+MongoDB Atlas -> cloud
+
 database > collections > documents
 
 
