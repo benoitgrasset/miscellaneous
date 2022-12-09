@@ -6,11 +6,11 @@ https://www.mongodb.com/docs/manual/installation/
 
 #### Tool
 
-MongoDB Compass -> GUI
+**MongoDB Compass** -> GUI
 
-Mongoose -> schema definition
+**Mongoose** -> schema definition
 
-MongoDB Atlas -> cloud
+**MongoDB Atlas** -> cloud
 
 database > collections > documents
 
