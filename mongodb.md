@@ -6,7 +6,9 @@ https://www.mongodb.com/docs/manual/installation/
 
 #### Tool
 
-MongoDB Compass / Mongoose
+MongoDB Compass -> GUI
+
+Mongoose -> schema definition
 
 MongoDB Atlas -> cloud
 
