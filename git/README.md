@@ -15,6 +15,7 @@ git pull --rebase
 
 ```
 git config --global fetch.prune true
+git fetch -p
 ```
 
 git pull = git fetch && git merge
