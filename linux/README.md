@@ -10,3 +10,4 @@
 | ls | list |
 | cd | change directory  |
 | cp | copy  |
+| mkdir | create a new directory  |
