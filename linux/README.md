@@ -1,8 +1,8 @@
-```
-  `code`: 
-  `cat`:
-  `touch`:
-  `curl`: client URL request library
-  `nano`:
-  `grep`:
-```
+| command |  |
+| ------ | ------ |
+| code |  |
+| cat |  |
+| touch |  |
+| curl | client URL request library |
+| nano |  |
+| grep |  |
