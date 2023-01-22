@@ -1,8 +1,12 @@
 | command |  |
 | ------ | ------ |
-| code |  |
-| cat |  |
-| touch |  |
+| code | open VSCode |
+| cat | concatenate - displays the contents of a file |
+| touch | make a new file |
 | curl | client URL request library |
-| nano |  |
-| grep |  |
+| nano | open nano editor |
+| grep | global regular expression print - searching through text |
+| pwd | print working directory |
+| ls | list |
+| cd | change directory  |
+| cp | copy  |
