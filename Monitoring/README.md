@@ -14,3 +14,14 @@ ensuite utiliser ces informations pour améliorer leur site web et leur contenu.
 
 En résumé, Sentry est utilisé pour surveiller les erreurs dans le code, Datadog pour surveiller les performances de l'infrastructure informatique, 
 tandis que Google Analytics est utilisé pour surveiller et analyser le comportement des utilisateurs sur un site web.
+
+
+**Grafana** et **Kibana** sont deux outils populaires d'analyse et de visualisation de données utilisés dans les environnements de production pour surveiller et analyser les données de l'infrastructure.
+
+Voici les principales différences entre Grafana et Kibana :
+
+Objectifs et utilisations:
+
+- **Grafana** est principalement utilisé pour surveiller les données d'infrastructures et afficher des tableaux de bord, avec des sources de données telles que Prometheus, Graphite, Elasticsearch, InfluxDB et d'autres. Il peut également être utilisé pour la surveillance des applications.
+
+- **Kibana** est conçu pour travailler avec Elasticsearch, il est utilisé pour l'analyse des logs, la surveillance des performances et la sécurité des données. Il offre également des fonctionnalités de visualisation, de recherche et de traitement de données pour les utilisateurs d'Elastic Stack.
