@@ -16,6 +16,8 @@ En résumé, Sentry est utilisé pour surveiller les erreurs dans le code, Datad
 tandis que Google Analytics est utilisé pour surveiller et analyser le comportement des utilisateurs sur un site web.
 
 
+
+
 **Grafana** et **Kibana** sont deux outils populaires d'analyse et de visualisation de données utilisés dans les environnements de production pour surveiller et analyser les données de l'infrastructure.
 
 Voici les principales différences entre Grafana et Kibana :
