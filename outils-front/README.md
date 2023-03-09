@@ -89,7 +89,7 @@ Storybook est une bibliothèque qui permet de regrouper tous nos composants dans
 
 ## Autres outils
 
-- [Homebrew](https://brew.sh/index_fr) un gestionnaire de paquets pour macos
+- [Homebrew](https://brew.sh/index_fr) un gestionnaire de paquets pour macos (brew command)
 - [N](https://formulae.brew.sh/formula/n) un gestionnaire de versions pour Node.js
 - [Node.js](https://nodejs.org/en/) le fameux runtime javascript
 
