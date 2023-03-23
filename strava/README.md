@@ -23,3 +23,8 @@
 
 - Sauce for Strava
 - Elevate
+
+## Velo
+
+- [goldencheetah](https://www.goldencheetah.org/)
+- [zwofactory](https://zwofactory.com/)
