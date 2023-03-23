@@ -29,3 +29,7 @@
 - [golden cheetah](https://www.goldencheetah.org/)
 - [Zwofactory](https://zwofactory.com/)
 - [Zwift Workout](https://www.zwiftworkout.com/editor/new)
+
+## Autres outils
+
+- [fitfiletools](https://www.fitfiletools.com/#/adjuster#view)
