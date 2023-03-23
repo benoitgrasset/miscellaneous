@@ -28,3 +28,4 @@
 
 - [goldencheetah](https://www.goldencheetah.org/)
 - [zwofactory](https://zwofactory.com/)
+- [zwiftworkout](https://www.zwiftworkout.com/editor/new)
