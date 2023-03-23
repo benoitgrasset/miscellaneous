@@ -4,6 +4,9 @@
 - [Training Peaks](https://www.trainingpeaks.com/)
 - [Mon site](https://strava-dashboard.netlify.app/oauth)
 - [intervals.icu](https://intervals.icu/)
+
+![image](https://user-images.githubusercontent.com/32497923/227268280-a64964f5-fff3-47b4-bdad-864bfaeb6f75.png)
+
 - [smashrun](https://fr.smashrun.com/)
 
 ![image](https://user-images.githubusercontent.com/32497923/227267723-b2724d09-5156-4c48-b441-f3f26a29310c.png)
