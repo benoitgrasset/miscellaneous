@@ -5,7 +5,7 @@
 - [Mon site](https://strava-dashboard.netlify.app/oauth)
 - [intervals.icu](https://intervals.icu/)
 
-![image](https://user-images.githubusercontent.com/32497923/227268280-a64964f5-fff3-47b4-bdad-864bfaeb6f75.png)
+<img src='https://user-images.githubusercontent.com/32497923/227268280-a64964f5-fff3-47b4-bdad-864bfaeb6f75.png' alt='img' height='50%' width='50%' />
 
 - [smashrun](https://fr.smashrun.com/)
 
