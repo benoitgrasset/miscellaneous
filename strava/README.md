@@ -6,6 +6,9 @@
 - [intervals.icu](https://intervals.icu/)
 - [smashrun](https://fr.smashrun.com/)
 - [stravify](https://stravify.com/)
+
+![image](https://user-images.githubusercontent.com/32497923/227267559-b6766766-8bd9-4835-a9d2-48a2b671c861.png)
+
 - [statshunters](https://statshunters.com/)
 - [runalyse](https://runalyze.com/dashboard)
 
