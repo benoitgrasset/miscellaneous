@@ -26,6 +26,6 @@
 
 ## Velo
 
-- [goldencheetah](https://www.goldencheetah.org/)
-- [zwofactory](https://zwofactory.com/)
-- [zwiftworkout](https://www.zwiftworkout.com/editor/new)
+- [golden cheetah](https://www.goldencheetah.org/)
+- [Zwofactory](https://zwofactory.com/)
+- [Zwift Workout](https://www.zwiftworkout.com/editor/new)
