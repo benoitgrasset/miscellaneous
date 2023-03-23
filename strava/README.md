@@ -21,8 +21,8 @@
 
 ## Plugins Strava
 
-- Sauce for Strava
-- Elevate
+- [Sauce for Strava](https://chrome.google.com/webstore/detail/sauce-for-strava/eigiefcapdcdmncdghkeahgfmnobigha)
+- [Elevate](https://chrome.google.com/webstore/detail/elevate-for-strava/dhiaggccakkgdfcadnklkbljcgicpckn)
 
 ## Velo
 
