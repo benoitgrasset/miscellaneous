@@ -1,5 +1,4 @@
-
-### Strava alternatives
+## Strava alternatives
 
 - [nolio](https://www.nolio.io/)
 - [Training Peaks](https://www.trainingpeaks.com/)
