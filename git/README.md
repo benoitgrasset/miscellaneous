@@ -21,16 +21,20 @@ git fetch -p
 git pull = git fetch && git merge
 
 
-#### hooks - husky
+### husky
 
+**pre-commit**
 ```
-pre-commit
-```
-```
-post-merge
+  npx tsc --noEmit --pretty
+  npx lint-staged
 ```
 
-- lint-staged
-- commitlint, commitizen (feat, fix, docs, style, refactor, perf, chore, revert, test, build, ci, ...)
-- git-precommit-checks
-- validate-branch-name
+**post-merge**
+
+**other hooks**:
+
+- [lint-staged](https://github.com/okonet/lint-staged)
+- [commitlint](https://github.com/conventional-changelog/commitlint)
+- [commitizen](https://github.com/commitizen-tools/commitizen) (feat, fix, docs, style, refactor, perf, chore, revert, test, build, ci, ...)
+- [git-precommit-checks](https://github.com/mbrehin/git-precommit-checks)
+- [validate-branch-name](https://github.com/JsonMa/validate-branch-name)
