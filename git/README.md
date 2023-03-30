@@ -22,10 +22,9 @@ git pull = git fetch && git merge
 
 ## Github bots
 
-- [Snyk](https://snyk.io/)
 - [Dependabot](https://github.com/dependabot)
+- [Snyk](https://snyk.io/)
 - [Renovate](https://github.com/renovatebot/renovate)
-- [releasy]()
 
 ### husky
 
