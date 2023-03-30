@@ -91,7 +91,10 @@ Storybook est une bibliothèque qui permet de regrouper tous nos composants dans
 
 - [Homebrew](https://brew.sh/index_fr) un gestionnaire de paquets pour macos (brew command)
 - [N](https://formulae.brew.sh/formula/n) un gestionnaire de versions pour Node.js
+- [nvm](https://github.com/nvm-sh/nvm) Node Version Manager
 - [Node.js](https://nodejs.org/en/) le fameux runtime javascript
+
+- [create-t3-app](https://create.t3.gg/) boilerplate to start a full-stack, typesafe Next.js app
 
 Pour garantir le bon fonctionnement des tests, il faut ajouter le locale dans le fichier config de la shell :
 ````
