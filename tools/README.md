@@ -9,6 +9,7 @@
 
 - [miro](https://miro.com/fr/)
 - [mural](https://www.mural.co/)
+- [figjam](https://www.figma.com/fr/figjam/)
 
 ## Diagrammes / UML
 
