@@ -1,6 +1,6 @@
 ### Tests / MSW
 
-- [jest-msw](https://delicious-insights.com/fr/articles/jest-msw/)
+- [jest-msw](https://delicious-insights.com/fr/articles/jest-msw/): simulez vos appels réseau pour vos tests jest avec msw
 - [The React Testing Library Guide I Wish I Had](https://blog.theodo.com/2021/12/react-testing-library-guide/)
 - [React Testing Library](https://testing-library.com/docs/react-testing-library/intro/)
 - [Cypress](https://www.cypress.io/): end to end testing
