@@ -21,6 +21,12 @@ tandis que Google Analytics est utilisé pour surveiller et analyser le comporte
 
 https://www.metabase.com/
 
+## Secoda
+
+Secoda is a universal data discovery and documentation tool that makes finding metadata, queries, charts and documentation as easy as a google search.
+
+https://www.secoda.co/
+
 ## Grafana et Kibana
 
 **Grafana** et **Kibana** sont deux outils populaires d'analyse et de visualisation de données utilisés dans les environnements de production pour surveiller et analyser les données de l'infrastructure.
