@@ -8,7 +8,6 @@
 - [JS bundlers report](https://bundlers.tooling.report/)
 - [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 - [A Complete Guide to Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
-- [FLEXBOX FROGGY](https://flexboxfroggy.com/#fr)
 - [Can I use](https://caniuse.com/)
 - [Autoprefixer CSS online](https://autoprefixer.github.io/)
 - [Specifishity: CSS specificity](https://specifishity.com/)
@@ -17,6 +16,13 @@
 - [JSS ](https://cssinjs.org/styled-jss/?v=v1.2.0)
 - [explainshell](https://explainshell.com/explain?cmd=curl+-fsSL+example.org)
 - [overapi](https://overapi.com/)
+
+## Jeux
+
+- [CSS battle](https://cssbattle.dev/)
+- [FLEXBOX FROGGY](https://flexboxfroggy.com/#fr)
+- [CSS Grid Garden](https://cssgridgarden.com/#fr)
+- [flukeout](https://flukeout.github.io/#)
 
 ## UI/UX
 
