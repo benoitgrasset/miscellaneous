@@ -43,3 +43,8 @@ git pull = git fetch && git merge
 - [commitizen](https://github.com/commitizen-tools/commitizen) (feat, fix, docs, style, refactor, perf, chore, revert, test, build, ci, ...)
 - [git-precommit-checks](https://github.com/mbrehin/git-precommit-checks)
 - [validate-branch-name](https://github.com/JsonMa/validate-branch-name)
+
+### Github Actions / Gitlab CI/CD
+
+- [act](https://github.com/nektos/act): Run your GitHub Actions locally
+
