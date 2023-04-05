@@ -23,7 +23,7 @@ tandis que Google Analytics est utilisé pour surveiller et analyser le comporte
 
 https://www.metabase.com/
 
-### Secoda
+### Secoda (SEarchable COmpany DAta) 
 
 Secoda is a universal data discovery and documentation tool that makes finding metadata, queries, charts and documentation as easy as a google search.
 
