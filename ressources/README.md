@@ -1,3 +1,5 @@
+- [awesome-react](https://github.com/enaqx/awesome-react/blob/master/README.md#autocomplete)
+
 ## Liens utiles HTML/CSS/Javascript
 
 - [Tableau périodique des éléments HTML](https://madebymike.github.io/html5-periodic-table/#html)
@@ -5,7 +7,7 @@
 - [CSS Grid Generator](https://cssgrid-generator.netlify.app/)
 - [devdocs](https://devdocs.io/)
 - [The Modern Javascript Tutorial](https://javascript.info/)
-- [JS bundlers report](https://bundlers.tooling.report/)
+- [overapi](https://overapi.com/): the JS cheatsheet
 - [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 - [A Complete Guide to Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
 - [Can I use](https://caniuse.com/)
@@ -13,7 +15,7 @@
 - [Specifishity: CSS specificity](https://specifishity.com/)
 - [Introduction à styled-components](https://putaindecode.io/articles/introduction-a-styled-components/#:~:text=La%20force%20de%20styled%2Dcomponents,et%20un%20zeste%20de%20JavaScript.)
 - [explainshell](https://explainshell.com/explain?cmd=curl+-fsSL+example.org)
-- [overapi](https://overapi.com/)
+- [Built With](https://builtwith.com/): Find out what websites are Built With
 
 ## Style
 
@@ -31,6 +33,10 @@
 
 - [undraw](https://undraw.co/illustrations)
 
+## Bundlers
+
+- [JS bundlers report](https://bundlers.tooling.report/)
+
 ## Payment Card
 
 - [card guru](https://cardguru.io/): Create Test Credit Card Numbers
@@ -39,4 +45,12 @@
 
 - [AuthJS](https://authjs.dev/getting-started/introduction)
 
+## Fake data
 
+- [Faker](https://fakerjs.dev/)
+- [Chance](https://chancejs.com/index.html)
+
+## Format
+
+- [FormatJS](https://formatjs.io/): JavaScript libraries for internationalization that are focused on formatting numbers, dates, and strings
+- [Cleave.js](https://nosir.github.io/cleave.js/): format your <input/>
