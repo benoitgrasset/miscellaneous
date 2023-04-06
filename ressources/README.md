@@ -43,7 +43,7 @@
 
 ## Authentification
 
-- [AuthJS](https://authjs.dev/getting-started/introduction)
+- [AuthJS](https://authjs.dev/getting-started/introduction): Auth.js is a complete open-source authentication solution for web applications (Next.js, SvelteKit, SolidStart)
 
 ## Fake data
 
