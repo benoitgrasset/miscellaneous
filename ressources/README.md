@@ -35,6 +35,8 @@
 
 - [card guru](https://cardguru.io/): Create Test Credit Card Numbers
 
+## Authentification
 
+- [AuthJS](https://authjs.dev/getting-started/introduction)
 
 
