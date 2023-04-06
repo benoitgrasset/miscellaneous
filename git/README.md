@@ -4,7 +4,7 @@ git update-index --skip-worktree file.html
 git update-index --no-skip-worktree file.html
 ```
 
-#### To change capitalization of filenames in Git:
+#### change capitalization of filenames in Git:
 ```
 git mv --force src/components/CheckBoxWithLabel.tsx src/components/CheckboxWithLabel.tsx
 ```
