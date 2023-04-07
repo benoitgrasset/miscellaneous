@@ -17,6 +17,7 @@
 - [explainshell](https://explainshell.com/explain?cmd=curl+-fsSL+example.org)
 - [Built With](https://builtwith.com/): Find out what websites are Built With
 - [overreacted](https://overreacted.io/) - Personal blog by Dan Abramov
+- [State of JS 2022 report](https://2022.stateofjs.com/en-US/)
 
 ## Style
 
@@ -37,6 +38,10 @@
 ## Bundlers
 
 - [JS bundlers report](https://bundlers.tooling.report/)
+
+## REST API
+
+- [reqbin](https://reqbin.com/): Online REST & SOAP API Testing Tool
 
 ## Payment Card
 
