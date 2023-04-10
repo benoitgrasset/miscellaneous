@@ -22,7 +22,7 @@
 ## Style
 
 - [JSS ](https://cssinjs.org/styled-jss/?v=v1.2.0)
-- [styled-components-vs-emotion](https://github.com/jsjoeio/styled-components-vs-emotion)
+- [styled-components-vs-emotion](https://github.com/jsjoeio/styled-components-vs-emotion) - emotion can do objects and strings of CSS, also it's smaller and faster
 
 ## Jeux
 
