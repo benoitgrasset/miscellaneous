@@ -111,3 +111,9 @@ Pour garantir le bon fonctionnement des tests, il faut ajouter le locale dans le
 - [Thunder Client](https://marketplace.visualstudio.com/items?itemName=rangav.vscode-thunder-client) une alternative de Postman directement dans VSCode
 - [maccy](https://maccy.app/) Clipboard manager for macOS
 - [ubar](https://brawersoftware.com/products/ubar) The Dock replacement for the Mac
+
+- **BDD**: DBeaver, PGAdmin
+- **Audio**:  Pavucontrol (PulseAudio VolUme Control)
+- **ABTesting*: Kameloon
+- **Son**: NoiseTorch
+- HTop, Pop meetings
