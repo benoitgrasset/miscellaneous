@@ -114,6 +114,6 @@ Pour garantir le bon fonctionnement des tests, il faut ajouter le locale dans le
 
 - **BDD**: DBeaver, PGAdmin
 - **Audio**:  Pavucontrol (PulseAudio VolUme Control)
-- **ABTesting*: Kameloon
+- **ABTesting**: Kameloon
 - **Son**: NoiseTorch
 - HTop, Pop meetings
