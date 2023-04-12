@@ -92,6 +92,24 @@ Storybook est une bibliothèque qui permet de regrouper tous nos composants dans
 Chromatic is a cloud-based toolchain for Storybook that helps teams ship UI components faster. It’s made by the team behind Storybook. Chromatic automates UI testing and review.
 https://www.chromatic.com/docs/
 
+```
+name: Chromatic
+
+on:
+  push:
+    branches: [main]
+
+jobs:
+  chromatic:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: chromaui/action@v1
+        with:
+          projectToken: ${{ secrets.CHROMATIC_PROJECT_TOKEN }}
+          
+ ```
+
 ## Autres outils
 
 - [Homebrew](https://brew.sh/index_fr) un gestionnaire de paquets pour macos (brew command)
