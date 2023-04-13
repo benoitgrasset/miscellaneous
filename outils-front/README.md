@@ -102,11 +102,17 @@ on:
 jobs:
   chromatic:
     runs-on: ubuntu-latest
+    with:
+        fetch-depth: 0
     steps:
       - uses: actions/checkout@v2
-      - uses: chromaui/action@v1
+      - name: Install dependencies
+        run: yarn
+      - name: Deploy 
+        uses: chromaui/action@v1
         with:
           projectToken: ${{ secrets.CHROMATIC_PROJECT_TOKEN }}
+          onlyChanged: true
           
  ```
 
