@@ -93,6 +93,11 @@ Chromatic is a cloud-based toolchain for Storybook that helps teams ship UI comp
 https://www.chromatic.com/docs/
 
 ```
+yarn add --dev chromatic
+npx chromatic --project-token=329568dabebe
+```
+
+```
 name: Chromatic
 
 on:
