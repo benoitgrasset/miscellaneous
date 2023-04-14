@@ -102,7 +102,7 @@ name: Chromatic
 
 on:
   push:
-    branches: [main]
+    branches: [develop, main]
 
 jobs:
   chromatic:
@@ -113,7 +113,7 @@ jobs:
       - uses: actions/checkout@v2
       - name: Install dependencies
         run: yarn
-      - name: Deploy on Chromatic
+      - name: Publish to Chromatic
         uses: chromaui/action@v1
         with:
           projectToken: ${{ secrets.CHROMATIC_PROJECT_TOKEN }}
