@@ -25,6 +25,12 @@ git fetch -p
 
 git pull = git fetch && git merge
 
+**submodules**
+
+```
+git submodule update --init --recursive
+```
+
 ## Github bots
 
 - [Dependabot](https://github.com/dependabot)
