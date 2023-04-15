@@ -72,6 +72,10 @@ Pour automatiquement nettoyer les objets Git du répertoire local à chaque fetc
 
 Pour appliquer les corrections ESLint partout:
 ```
+  "editor.formatOnSave": true,
+  "editor.codeActionsOnSave": {
+      "source.organizeImports": true
+    },
   "editor.codeActionsOnSave": {
     "source.fixAll.eslint": true
   },
