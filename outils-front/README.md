@@ -26,7 +26,7 @@ La dernière version de Visual Studio Code se trouve [ici](https://code.visualst
 
 ## VSCode extensions
 
-- [Bracket Pair Colorizer](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer)
+- [Grammarly](https://marketplace.visualstudio.com/items?itemName=znck.grammarly)
 - [Docker](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker)
 - [ES7 React/Redux/GraphQL/React-Native snippets](https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets)
 - [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
