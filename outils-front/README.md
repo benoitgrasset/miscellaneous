@@ -16,7 +16,8 @@ Au choix, la plupart dans l'équipe utilisent [google chrome](https://www.google
 - [1password](https://chrome.google.com/webstore/detail/1password-%E2%80%93-password-mana/aeblfdkhhhdcdjpifhhbdiojplfjncoa?hl=fr)
 - [Hide YouTube Shorts](https://chrome.google.com/webstore/detail/hide-youtube-shorts/aljlkinhomaaahfdojalfmimeidofpih/related)
 - [Honey: Automatic Coupons & Rewards](https://chrome.google.com/webstore/detail/honey-automatic-coupons-r/bmnlcjabgnpnenekpadlanbbkooimhnj?hl=fr)
-- [web developer tools](https://chrome.google.com/webstore/detail/web-developer/bfbameneiokkgbdmiekhjnmfkcnldhhm?hl=fr
+- [web developer tools](https://chrome.google.com/webstore/detail/web-developer/bfbameneiokkgbdmiekhjnmfkcnldhhm?hl=fr)
+
 ## IDE
 
 2 IDEs (au choix) sont utilisés par l'équipe front: Visual Studio Code ou IntelliJ IDEA.
@@ -48,6 +49,7 @@ La dernière version de Visual Studio Code se trouve [ici](https://code.visualst
 - [GitHub Copilot](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot)
 - [CSS Peek](https://marketplace.visualstudio.com/items?itemName=pranaygp.vscode-css-peek)
 - [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
+- [pretty-ts-errors](https://marketplace.visualstudio.com/items?itemName=yoavbls.pretty-ts-errors)
 
 ## Configuration de Git avec VS Code
 
