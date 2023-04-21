@@ -11,3 +11,9 @@
 | cd | change directory  |
 | cp | copy  |
 | mkdir | create a new directory  |
+
+
+open .bashrc:
+```
+sudo open ~/.bashrc
+```
