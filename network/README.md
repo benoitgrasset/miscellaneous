@@ -16,7 +16,7 @@
 
 ### Polling (HTTP request)
 
-unidirectional refresh
+uni-directional refresh
 
 ### Webhooks (callback)
 
@@ -25,3 +25,4 @@ Le client s'enregistre sur une URL de callback, les notifications arrivent sur u
 ### Websocket
 
 ! consomme des ressources
+bi-directional connection / hand-shaking
