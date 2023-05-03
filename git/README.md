@@ -11,7 +11,7 @@ git mv --force src/components/CheckBoxWithLabel.tsx src/components/CheckboxWithL
 
 #### force to quit git rebase
 ```
-git rebase --quit
+git rebase --quit / --abort
 ```
 
 ```
