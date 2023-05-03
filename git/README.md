@@ -48,6 +48,15 @@ git rebase -i HEAD~X / drop
 
 **revert**: creer un nouveau commit qui annule le dernier commit <id_commit>
 
+supprimer les fichiers non trackés:
+```
+git clean
+```
+supprimer un fichier d'un dépot git:
+```
+git rm
+```
+
 **submodules**
 
 ```
