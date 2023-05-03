@@ -25,6 +25,28 @@ git fetch -p
 
 git pull = git fetch && git merge
 
+#### Useful commands
+
+repasser en staging area:
+```
+git reset HEAD~1
+```
+supprimer le dernier commit:
+```
+git reset --hard HEAD~1
+```
+modifier le dernier commit, le repasser dans la staging area:
+```
+git commit --amend
+```
+drop un commit:
+```
+git rebase -i HEAD~X / drop
+```
+
+**reset**: la branche diverge, à utiliser localement, réinitialiser l'historique de commits, supprime les derniers commits
+**revert**: creer un nouveau commit qui annule le dernier commit <id_commit>
+
 **submodules**
 
 ```
