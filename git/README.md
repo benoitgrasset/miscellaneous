@@ -45,6 +45,7 @@ git rebase -i HEAD~X / drop
 ```
 
 **reset**: la branche diverge, à utiliser localement, réinitialiser l'historique de commits, supprime les derniers commits
+
 **revert**: creer un nouveau commit qui annule le dernier commit <id_commit>
 
 **submodules**
