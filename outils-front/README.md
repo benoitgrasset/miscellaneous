@@ -153,7 +153,7 @@ Pour garantir le bon fonctionnement des tests, il faut ajouter le locale dans le
 
 ## Code quality
 
-Detect duplicate code :
+Detect duplicated code :
 ```
 npx jscpd --min-lines 15 --pattern "**/*.tsx"
 ```
