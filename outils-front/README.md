@@ -150,3 +150,10 @@ Pour garantir le bon fonctionnement des tests, il faut ajouter le locale dans le
 - **ABTesting**: Kameleoon
 - **Son**: NoiseTorch
 - HTop, Pop meetings
+
+## Code quality
+
+Detect duplicate code :
+```
+npx jscpd --min-lines 15 --pattern "**/*.tsx"
+```
