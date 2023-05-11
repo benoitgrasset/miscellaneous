@@ -41,15 +41,16 @@ La dernière version de Visual Studio Code se trouve [ici](https://code.visualst
 - [Import Cost](https://marketplace.visualstudio.com/items?itemName=wix.vscode-import-cost)
 - [Jest](https://marketplace.visualstudio.com/items?itemName=Orta.vscode-jest)
 - [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
+- [npm](https://marketplace.visualstudio.com/items?itemName=eg2.vscode-npm-script)
 - [Path Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense)
 - [Prettier ESLint](https://marketplace.visualstudio.com/items?itemName=rvest.vs-code-prettier-eslint)
 - [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
+- [Pretty TypeScript Errors](https://marketplace.visualstudio.com/items?itemName=yoavbls.pretty-ts-errors)
 - [Remote WSL](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-wsl)
 - [SonarLint](https://marketplace.visualstudio.com/items?itemName=SonarSource.sonarlint-vscode)
 - [Sort lines](https://marketplace.visualstudio.com/items?itemName=Tyriar.sort-lines)
+- [Stylelint](https://marketplace.visualstudio.com/items?itemName=stylelint.vscode-stylelint)
 - [Template string converter](https://marketplace.visualstudio.com/items?itemName=meganrogge.template-string-converter)
-- [npm](https://marketplace.visualstudio.com/items?itemName=eg2.vscode-npm-script)
-- [pretty-ts-errors](https://marketplace.visualstudio.com/items?itemName=yoavbls.pretty-ts-errors)
 
 ## Configuration de Git avec VS Code
 
