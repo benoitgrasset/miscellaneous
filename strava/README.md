@@ -29,6 +29,8 @@
 - [golden cheetah](https://www.goldencheetah.org/)
 - [Zwofactory](https://zwofactory.com/)
 - [Zwift Workout](https://www.zwiftworkout.com/editor/new)
+- [vo2fast](https://vo2fast.com/fr/)
+- [graigcoach](https://www.graigcoach.com/)
 
 ## Autres outils
 
