@@ -91,3 +91,6 @@ git submodule update --init --recursive
 
 - [act](https://github.com/nektos/act): Run your GitHub Actions locally
 
+### Packages
+
+- [yarn upgrade-interactive](https://classic.yarnpkg.com/lang/en/docs/cli/upgrade-interactive/)
