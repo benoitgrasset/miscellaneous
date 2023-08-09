@@ -23,13 +23,13 @@ git config --global fetch.prune true
 git fetch -p
 ```
 
-git pull = git fetch && git merge
+**git pull** = git fetch && git merge
 
 git pull --rebase / --merge / --ff / --no-ff / --squash
 
-git merge --squash
+git merge --squash: un seul commit de merge
 
-ff = fast forward (only update the branch pointer to match the merged branch; do not create a merge commit)
+**ff** = fast forward (only update the branch pointer to match the merged branch; do not create a merge commit)
 
 #### Useful commands
 
