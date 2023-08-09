@@ -24,8 +24,11 @@ git fetch -p
 ```
 
 git pull = git fetch && git merge
+
 git pull --rebase / --merge / --ff / --no-ff / --squash
+
 git merge --squash
+
 ff = fast forward (only update the branch pointer to match the merged branch; do not create a merge commit)
 
 #### Useful commands
