@@ -1,3 +1,5 @@
+## Typescript
+
 type ReactText = string | number;
 
 type ReactChild = ReactElement | string | number;
