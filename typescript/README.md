@@ -13,3 +13,7 @@ type ReactNode =
         | boolean
         | null
         | undefined
+
+JSX.Element
+
+ReactElement
