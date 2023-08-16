@@ -19,4 +19,6 @@ JSX.Element
 
 ReactElement
 
+FC (FunctionComponent)
+
 ```
