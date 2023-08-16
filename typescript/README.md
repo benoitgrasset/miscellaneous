@@ -1,5 +1,6 @@
 ## Typescript
 
+```
 type ReactText = string | number;
 
 type ReactChild = ReactElement | string | number;
@@ -17,3 +18,5 @@ type ReactNode =
 JSX.Element
 
 ReactElement
+
+```
