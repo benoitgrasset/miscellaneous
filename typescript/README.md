@@ -33,3 +33,11 @@ Autocomplétion sur un type string:
 ```
 "application" | "settings" | "user" | (string & {} )
 ```
+
+```
+typeof [] === 'object'
+type CurrencyValidationSchemaType = InferType<typeof currencyValidationSchema>;
+type FormWizardType = ReturnType<typeof useFormWizard>;
+key: string -> keyof Campaignoffer
+satisfies || as || type
+```
