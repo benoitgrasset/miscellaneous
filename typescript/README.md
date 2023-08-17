@@ -22,3 +22,14 @@ ReactElement
 FC (FunctionComponent)
 
 ```
+
+```
+const roles = ['user', 'admin'] as const
+type RolesArray = typeof roles
+type ROles = RolesArray[number]
+```
+
+Autocomplétion sur un type string:
+```
+"application" | "settings" | "user" | (string & {} )
+```
