@@ -83,6 +83,7 @@ git submodule update --init --recursive
 - https://about.codecov.io/
 - https://www.codechecks.io/
 - https://sonarcloud.io/projects
+- https://semgrep.dev/
 
 ### husky
 
