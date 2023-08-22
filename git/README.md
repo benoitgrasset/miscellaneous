@@ -79,7 +79,9 @@ git submodule update --init --recursive
 ## Static code analysis
 
 https://about.codecov.io/
+
 https://www.codechecks.io/
+
 https://sonarcloud.io/projects
 
 ### husky
