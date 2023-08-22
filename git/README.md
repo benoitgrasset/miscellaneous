@@ -75,6 +75,8 @@ git submodule update --init --recursive
 - [Snyk](https://snyk.io/)
 - [Renovate](https://github.com/renovatebot/renovate)
 - [kodiakhq](https://kodiakhq.com/)
+- [semantic release](https://github.com/semantic-release/semantic-release)
+- [gh submit queue](https://github.com/cirruslabs/gh-submit-queue)
 
 ## Static code analysis
 
