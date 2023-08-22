@@ -74,6 +74,13 @@ git submodule update --init --recursive
 - [Dependabot](https://github.com/dependabot)
 - [Snyk](https://snyk.io/)
 - [Renovate](https://github.com/renovatebot/renovate)
+- [kodiakhq](https://kodiakhq.com/)
+
+## Static code analysis
+
+https://about.codecov.io/
+https://www.codechecks.io/
+https://sonarcloud.io/projects
 
 ### husky
 
