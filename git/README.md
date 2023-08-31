@@ -63,6 +63,16 @@ supprimer un fichier d'un dépot git:
 git rm
 ```
 
+specifique branche d'un package npm:
+```
+"highcharts-react-official": "highcharts/highcharts-react#426-typescript-5.2.2-fix"
+```
+
+figer la mineur:
+```
+"typescript": "~5.1.6"
+```
+
 **submodules**
 
 ```
