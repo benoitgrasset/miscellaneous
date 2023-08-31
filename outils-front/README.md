@@ -51,6 +51,7 @@ La dernière version de Visual Studio Code se trouve [ici](https://code.visualst
 - [Sort lines](https://marketplace.visualstudio.com/items?itemName=Tyriar.sort-lines)
 - [Stylelint](https://marketplace.visualstudio.com/items?itemName=stylelint.vscode-stylelint)
 - [Template string converter](https://marketplace.visualstudio.com/items?itemName=meganrogge.template-string-converter)
+- [Github Actions](https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-github-actions)
 
 ## Configuration de Git avec VS Code
 
