@@ -42,11 +42,11 @@ key: string -> keyof Campaignoffer
 satisfies || as || type
 ```
 
-|           | \|\|  | ??    |
-|-----------|-------|-------|
-| 0         | false | true  |
-| " "       | false | true  |
-| false     | false | true  |
-| null      | false | false |
-| undefined | false | false |
-| [ ]       | true  | true  |
+|           | \|\|  | ??        |
+|-----------|-------|-----------|
+| 0         | false | true      |
+| " "       | false | true      |
+| false     | false | true      |
+| null      | false | **false** |
+| undefined | false | **false** |
+| [ ]       | true  | true      |
