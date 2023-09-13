@@ -16,6 +16,7 @@
 open .bashrc:
 ```
 sudo open ~/.bashrc
+sudo open ~/.profile
 ```
 
 Install packages with **snap**
