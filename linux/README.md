@@ -17,3 +17,5 @@ open .bashrc:
 ```
 sudo open ~/.bashrc
 ```
+
+Install packages with **snap**
