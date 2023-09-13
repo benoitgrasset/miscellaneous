@@ -16,6 +16,9 @@
 open .bashrc:
 ```
 sudo open ~/.bashrc
+```
+
+```
 sudo open ~/.profile
 ```
 
