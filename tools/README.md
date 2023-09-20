@@ -17,3 +17,10 @@
 - [excalibur](https://excalidraw.com/)
 - [gliffy](https://go.gliffy.com/go/html5/launch)
 - [yuml](https://yuml.me/diagram/scruffy/class/draw)
+
+
+## SVG
+
+- [boxy-svg](https://boxy-svg.com/app)
+- Figma
+- inkscape
