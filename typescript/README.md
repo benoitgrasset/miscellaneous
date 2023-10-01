@@ -42,6 +42,7 @@ Awaited<ReturnType<typeof func>>
 key: string -> keyof Campaignoffer
 satisfies || as || type
 keyof typeof
+Pick - Omit - Exclude - Partial - Record - Required
 ```
 
 |           | \|\|  | ??        |
