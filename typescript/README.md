@@ -38,8 +38,10 @@ Autocomplétion sur un type string:
 typeof [] === 'object'
 type CurrencyValidationSchemaType = InferType<typeof currencyValidationSchema>;
 type FormWizardType = ReturnType<typeof useFormWizard>;
+Awaited<ReturnType<typeof func>>
 key: string -> keyof Campaignoffer
 satisfies || as || type
+keyof typeof
 ```
 
 |           | \|\|  | ??        |
