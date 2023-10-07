@@ -57,3 +57,7 @@ keyof typeof
 ## Useful functions
 
 Pick - Omit - Exclude - Partial - Record - Required
+
+## TS Config
+
+https://www.totaltypescript.com/tsconfig-cheat-sheet
