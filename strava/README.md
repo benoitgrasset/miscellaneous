@@ -24,6 +24,10 @@
 - [Sauce for Strava](https://chrome.google.com/webstore/detail/sauce-for-strava/eigiefcapdcdmncdghkeahgfmnobigha)
 - [Elevate](https://chrome.google.com/webstore/detail/elevate-for-strava/dhiaggccakkgdfcadnklkbljcgicpckn)
 
+## Docs Strava
+
+https://communityhub.strava.com/
+
 ## Velo
 
 - [golden cheetah](https://www.goldencheetah.org/)
@@ -31,12 +35,18 @@
 - [Zwift Workout](https://www.zwiftworkout.com/editor/new)
 - [vo2fast](https://vo2fast.com/fr/)
 - [graigcoach](https://www.graigcoach.com/)
+- [watts-and-go](https://www.watts-and-go.com/)
 
 ## Autres outils
 
 - [fitfiletools](https://www.fitfiletools.com/#/adjuster#view)
+- [tri calculator](https://tricalculator.com/): calcul du temps sur une épreuve de triathlon
+
+## Statistiques
+
+- [TriRating](https://www.trirating.com/)
+- [coachcox](https://www.coachcox.co.uk/imstats/race/1875/averages/)
 
 ## Coaching
 
 - [Karoly Spy](https://ksendurancetraining.com/)
-- 
