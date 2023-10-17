@@ -35,3 +35,8 @@
 ## Autres outils
 
 - [fitfiletools](https://www.fitfiletools.com/#/adjuster#view)
+
+## Coaching
+
+- [Karoly Spy](https://ksendurancetraining.com/)
+- 
