@@ -134,6 +134,7 @@ jobs:
 - [N](https://formulae.brew.sh/formula/n) un gestionnaire de versions pour Node.js
 - [nvm](https://github.com/nvm-sh/nvm) Node Version Manager
 - [Node.js](https://nodejs.org/en/) le fameux runtime javascript
+- [BrowserStack](https://www.browserstack.com/): Instantly test your webpage on any desktop or mobile browser
 
 - [create-t3-app](https://create.t3.gg/) boilerplate to start a full-stack, typesafe Next.js app
 
