@@ -4,6 +4,7 @@
 - [slides](https://slides.com/)
 - [marp](https://marp.app/)
 - [LaTeX](https://www.latex-project.org/)
+- [canva](https://www.canva.com/fr_fr/)
 
 ## Interaction
 
