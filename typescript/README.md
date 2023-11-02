@@ -58,6 +58,12 @@ keyof typeof
 
 Pick - Omit - Exclude - Partial - Record - Required
 
+## Mapped object
+
+```
+{ [key in QueryKey]?: string }
+```
+
 ## TS Config
 
 https://www.totaltypescript.com/tsconfig-cheat-sheet
