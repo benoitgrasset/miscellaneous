@@ -25,3 +25,8 @@
 - [boxy-svg](https://boxy-svg.com/app)
 - Figma
 - inkscape
+
+
+## Others
+
+- https://numbr.dev/#new
