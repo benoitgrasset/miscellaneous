@@ -14,7 +14,7 @@
 
 - [json placeholder](https://jsonplaceholder.typicode.com/)
 - [faker](https://fakerjs.dev/)
-
+- [chancejs](https://chancejs.com/)
 
 
 ### Others
