@@ -25,3 +25,5 @@
 ### Mobile
 
 - [appetize.io](https://appetize.io/)
+- [bluestacks](https://www.bluestacks.com/download.html)
+- [genymotion](https://www.genymotion.com/)
