@@ -7,3 +7,7 @@
 ## IA conversationnelle
 
 - [chatGPT3](https://chat.openai.com/chat)
+
+## Google
+
+- LaMDA - PaLM 2 - Bard - Gemini
