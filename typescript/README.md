@@ -43,6 +43,7 @@ key: string -> keyof Campaignoffer
 satisfies || as || type
 keyof typeof
 <input /> "onChange()" event type: `const onChange: React.ComponentProps<"input">["onChange"]`
+type Handlers = keyof HTMLElement & `on${string}`;
 ```
 
 |           | \|\|  | ??        |
