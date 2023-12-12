@@ -28,6 +28,7 @@
 - [styled-components-vs-emotion](https://github.com/jsjoeio/styled-components-vs-emotion) - emotion can do objects and strings of CSS, also it's smaller and faster
 - [StyleX](https://stylexjs.com/)
 - [tss-react](https://www.tss-react.dev/)
+- https://nextjs.org/docs/app/building-your-application/styling/css-in-js
 
 ## Jeux
 
