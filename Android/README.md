@@ -18,6 +18,6 @@
 - Distraction Free Instagram: https://www.distractionfreeapps.com/
 
 
-## Unlock bootloader Xioami
+## Unlock bootloader Xiaomi
 
 https://en.miui.com/unlock/download_en.html
