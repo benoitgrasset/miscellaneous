@@ -8,6 +8,10 @@
 - Youtube Vanced / MicroG
 - ReVanced: https://revanced.app/
 
+### SmartTV
+
+- SmartTube: https://github.com/yuliskov/SmartTube
+
 ## Ad Blocks
 
 - AdGard: https://adguard.com/fr/welcome.html
