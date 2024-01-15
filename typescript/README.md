@@ -60,6 +60,12 @@ type Handlers = keyof HTMLElement & `on${string}`; -> filtre les clés de HTMLEl
 
 Pick - Omit - Exclude - Partial - Record - Required
 
+## Prettify
+
+type Prettify<T> = {
+        [K in keyof T]: T[K]
+        } & {}
+
 ## Mapped object
 
 ```
