@@ -62,9 +62,11 @@ Pick - Omit - Exclude - Partial - Record - Required
 
 ## Prettify
 
+```
 type Prettify<T> = {
         [K in keyof T]: T[K]
-        } & {}
+        } & {};
+```
 
 ## Mapped object
 
