@@ -22,7 +22,7 @@ sudo open ~/.bashrc
 sudo open ~/.profile
 ```
 
-Install packages with **snap**
+Install packages with **snap** / **apt**
 
 
 ## Test Linux distros online
