@@ -23,3 +23,8 @@ sudo open ~/.profile
 ```
 
 Install packages with **snap**
+
+
+## Test Linux distros online
+
+https://distrosea.com/
