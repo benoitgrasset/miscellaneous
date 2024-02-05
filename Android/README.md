@@ -25,3 +25,9 @@
 ## Unlock bootloader Xiaomi
 
 https://en.miui.com/unlock/download_en.html
+
+## Virtual Machine
+
+- [appetize.io](https://appetize.io/)
+- [bluestacks](https://www.bluestacks.com/download.html)
+- [genymotion](https://www.genymotion.com/)
