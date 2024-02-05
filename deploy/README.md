@@ -9,3 +9,4 @@ https://stackblitz.com/github/benoitgrasset/next-rounting
 - Github Pages
 - Vercel
 - Firebase
+- Hostinger
