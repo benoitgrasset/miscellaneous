@@ -75,7 +75,9 @@ const audioRef = useRef<ElementRef<"audio">>(null);
 
 ## NoInfer
 
+```
 type NoInfer<T> = [T][T extends any ? 0 : never];
+```
 ```
 function createFSM<TState extends string>(config: {
   initial: NoInfer<TState>;
