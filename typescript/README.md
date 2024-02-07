@@ -68,6 +68,26 @@ type Prettify<T> = {
         } & {};
 ```
 
+## Ref
+
+const audioRef = useRef<ElementRef<"audio">>(null);
+<audio ref={audioRef} />
+
+## NoInfer
+
+type NoInfer<T> = [T][T extends any ? 0 : never];
+```
+function createFSM<TState extends string>(config: {
+  initial: NoInfer<TState>;
+  states: TState[];
+}): TState;
+
+const example1 = createFSM({
+  initial: "idle", -> cannot be "not-allowed"
+  states: ["idle", "loading", "success", "error"],
+});
+```
+
 ## Mapped object
 
 ```
