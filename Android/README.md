@@ -7,6 +7,8 @@
 
 - Youtube Vanced / MicroG
 - ReVanced: https://revanced.app/
+- NewPipe
+- CleanTube
 
 ### SmartTV
 
