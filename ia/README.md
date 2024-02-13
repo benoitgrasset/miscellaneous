@@ -7,6 +7,7 @@
 ## Upscale Image
 
 - https://magnific.ai/
+- [Topaz AI](https://www.topazlabs.com/)
 
 ## IA conversationnelle
 
