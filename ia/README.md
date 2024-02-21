@@ -22,3 +22,6 @@
 ## Google
 
 - LaMDA - PaLM 2 - Bard - Gemini
+
+
+LAM (Large Action Models)
