@@ -8,10 +8,16 @@
 
 - https://magnific.ai/
 - [Topaz Photo AI](https://www.topazlabs.com/)
+- [replicate AI](https://replicate.com/)
 
 ## IA conversationnelle
 
 - [chatGPT3](https://chat.openai.com/chat)
+
+## IDE
+
+- [Zed](https://zed.dev/)
+- [Cursor](https://cursor.sh/): The AI-first Code Editor
 
 ## Google
 
