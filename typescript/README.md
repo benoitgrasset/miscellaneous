@@ -115,3 +115,10 @@ https://www.totaltypescript.com/tsconfig-cheat-sheet
 | .splice()  |             |
 | .sort()    | .toSorted() |
 |            |             |
+
+
+## Ref
+
+`Object.is()` - Determines whether two values are the same value.
+
+Object, Array, function -> ref are different
