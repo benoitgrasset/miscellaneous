@@ -121,7 +121,7 @@ https://www.totaltypescript.com/tsconfig-cheat-sheet
 
 `Object.is()` - Determines whether two values are the same value.
 
-Object, Array, function -> ref are different
+Object, Array, function -> ref are different, needs to be wrapped by `useCallback()`
 
 The difference between primitive and non-primitive data types is that:
 
