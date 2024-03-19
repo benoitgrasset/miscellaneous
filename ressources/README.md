@@ -4,11 +4,7 @@
 
 - [Tableau périodique des éléments HTML](https://madebymike.github.io/html5-periodic-table/#html)
 - [HTMhell](https://www.htmhell.dev/)
-- [CSS Grid Generator](https://cssgrid-generator.netlify.app/)
-- [devdocs](https://devdocs.io/)
-- [The Modern Javascript Tutorial](https://javascript.info/)
-- [overapi](https://overapi.com/) - the JS cheatsheet
-- [eloquentjavascript.net](https://eloquentjavascript.net/)
+- [CSS Grid Generator](https://cssgrid-generator.netlify.app/) 
 - [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 - [A Complete Guide to Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
 - [Can I use](https://caniuse.com/)
@@ -22,6 +18,13 @@
 - [Tools (string, JSON, ...)](https://codeshack.io/tools/)
 - [JSON Crack](https://jsoncrack.com/editor)
 - [modern fluid typography](https://modern-fluid-typography.vercel.app/) - Modern fluid typography editor
+
+## Documentation JS
+
+- [devdocs](https://devdocs.io/)
+- [The Modern Javascript Tutorial](https://javascript.info/)
+- [overapi](https://overapi.com/) - the JS cheatsheet
+- [eloquentjavascript.net](https://eloquentjavascript.net/)
 
 ## Style
 
