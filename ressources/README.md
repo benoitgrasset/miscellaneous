@@ -8,6 +8,7 @@
 - [devdocs](https://devdocs.io/)
 - [The Modern Javascript Tutorial](https://javascript.info/)
 - [overapi](https://overapi.com/) - the JS cheatsheet
+- [eloquentjavascript.net](https://eloquentjavascript.net/)
 - [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 - [A Complete Guide to Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
 - [Can I use](https://caniuse.com/)
