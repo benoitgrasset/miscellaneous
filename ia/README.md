@@ -23,6 +23,10 @@
 
 - LaMDA - PaLM 2 - Bard - Gemini
 
+## Video generation
+
+- [sora](https://openai.com/sora)
+- [runwayml.com](https://runwayml.com/)
 
 ### LAM (Large Action Models)
 
