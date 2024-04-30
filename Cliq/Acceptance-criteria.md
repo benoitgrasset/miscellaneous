@@ -28,7 +28,7 @@ Then I should see the page template configuration user interfaceAnd I should see
 
 Scenario AC2 - The administrator manages the components of the page template configuration.
 
-*AC2.1*
+### AC2.1
 
 Given I configured the page template with at least one component
 
