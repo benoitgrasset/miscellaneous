@@ -1,4 +1,4 @@
-Summary
+## Summary
 
 DPM portals are white-label products that provide the same basic functionality with slight variations in presentation.
 
@@ -6,7 +6,7 @@ A user interface for configuring DPM page templates will allow administrators to
 
 
 
-User story
+## User story
 
 As an administrator,
 I want to configure the page templates of a portal,
@@ -14,11 +14,11 @@ So that I can customise how content is presented to users.
 
 
 
-Acceptance criteria
+## Acceptance criteria
 
 Scenario AC1 - The administrator creates a page template configuration for a portal.
 
-AC1.1
+### AC1.1
 
 Given I selected a portalAnd I selected a page template
 
@@ -28,7 +28,7 @@ Then I should see the page template configuration user interfaceAnd I should see
 
 Scenario AC2 - The administrator manages the components of the page template configuration.
 
-AC2.1
+*AC2.1*
 
 Given I configured the page template with at least one component
 
@@ -36,19 +36,19 @@ When I request to configure a component in the page template configuration
 
 Then I should see options to change the component’s propertiesAnd I should see an option to remove the component from the page template configurationAnd I should see an option to move the component to a different position in the page template configuration
 
-AC2.2
+### AC2.2
 
 When I request to change the component’s properties
 
 Then I should see the change reflected in the preview of the configured page template
 
-AC2.3
+### AC2.3
 
 When I request to remove the component from the page template configuration
 
 Then I should see the component removed in the preview of the configured page template
 
-AC2.4
+### AC2.4
 
 When I request to move the component to a different position in the page template configuration
 
@@ -56,7 +56,7 @@ Then I should see the component moved to chosen position in the preview of the c
 
 Scenario AC3 - The administrator saves the page template configuration.
 
-AC3.1
+### AC3.1
 
 Given I created a valid page template configuration
 
@@ -66,18 +66,10 @@ Then I should see that the page template configuration was saved
 
 Scenario AC4 - The administrator edits a page template configuration.
 
-AC4.1
+### AC4.1
 
 Given I previously saved a page template configuration
 
 When I request to open the page builder for that page template configuration
 
 Then I should continue working from the last saved page template configuration
-
-
-
-Notes
-
-We researched possible solutions for the page template configuration UI. The results are here:
-
-https://cliqdigital-my.sharepoint.com/:x:/p/d_strekelj/EYPb2IQ9RVFNtrWyX2OZIvUBVNwUp-4M-v26RuRyjHxwcg?e=H1UnMP
