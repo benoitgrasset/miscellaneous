@@ -76,7 +76,6 @@
 ## Calendar
 
 - [cally](https://wicky.nillia.ms/cally/)
-- 
 
 ## Graphs
 
