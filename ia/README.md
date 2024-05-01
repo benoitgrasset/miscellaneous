@@ -15,7 +15,7 @@
 
 - [chatGPT3](https://chat.openai.com/chat)
 - [Mistral AI](https://mistral.ai/fr/)
-- [huggingface](https://huggingface.co/chat/)
+- [huggingface 🤗](https://huggingface.co/chat/)
 - [Gemini](https://gemini.google.com/app)
 
 ## IDE
