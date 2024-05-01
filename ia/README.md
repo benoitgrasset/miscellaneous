@@ -15,6 +15,7 @@
 
 - [chatGPT3](https://chat.openai.com/chat)
 - [Mistral AI](https://mistral.ai/fr/)
+- [Gemini](https://gemini.google.com/app)
 
 ## IDE
 
