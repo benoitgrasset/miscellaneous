@@ -14,6 +14,7 @@
 ## IA conversationnelle
 
 - [chatGPT3](https://chat.openai.com/chat)
+- [Mistral AI](https://mistral.ai/fr/)
 
 ## IDE
 
