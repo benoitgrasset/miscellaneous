@@ -17,6 +17,7 @@
 - [Mistral AI](https://mistral.ai/fr/)
 - [huggingface 🤗](https://huggingface.co/chat/)
 - [Gemini](https://gemini.google.com/app)
+- https://groq.com/
 
 ## IDE
 
