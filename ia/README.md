@@ -18,6 +18,7 @@
 - [huggingface 🤗](https://huggingface.co/chat/)
 - [Gemini](https://gemini.google.com/app)
 - https://groq.com/
+- https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard
 
 ## IDE
 
