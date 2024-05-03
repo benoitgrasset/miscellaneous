@@ -36,6 +36,7 @@ https://communityhub.strava.com/
 - [vo2fast](https://vo2fast.com/fr/)
 - [graigcoach](https://www.graigcoach.com/)
 - [watts-and-go](https://www.watts-and-go.com/)
+- [bestbikesplit](https://www.bestbikesplit.com/)
 
 ## Autres outils
 
