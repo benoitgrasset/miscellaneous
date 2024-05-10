@@ -25,6 +25,9 @@
 - [Zed](https://zed.dev/)
 - [Cursor](https://cursor.sh/): The AI-first Code Editor
 
+- https://www.tabnine.com/
+- https://github.com/features/copilot
+
 ## Google
 
 - LaMDA - PaLM 2 - Bard - Gemini
