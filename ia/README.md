@@ -18,6 +18,7 @@
 - [huggingface 🤗](https://huggingface.co/chat/)
 - [Gemini](https://gemini.google.com/app)
 - https://claude.ai/
+- https://copilot.microsoft.com/
 - https://groq.com/
 - [Open LLM Leaderboard](https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard)
 
