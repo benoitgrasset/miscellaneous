@@ -66,6 +66,9 @@ type Handlers = keyof HTMLElement & `on${string}`; -> filtre les clés de HTMLEl
 - undefined
 - NaN (Not a Number)
 
+- Nullish Coalescing Operator (??): Checks if the left operand is null or undefined (nullish values)
+- Logical OR (||): Returns the first truthy value it encounters, any falsy value (including 0, "") will trigger the right operand
+
 ## Useful functions
 
 Pick - Omit - Exclude - Partial - Record - Required
