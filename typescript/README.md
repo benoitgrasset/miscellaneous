@@ -57,6 +57,14 @@ type Handlers = keyof HTMLElement & `on${string}`; -> filtre les clés de HTMLEl
 | undefined | false | **false** |
 | [ ]       | true  | true      |
 
+**Falsy values in JS:**
+
+- false
+- 0 (including negative zero)
+- "" (empty string)
+- null
+- undefined
+- NaN (Not a Number)
 
 ## Useful functions
 
