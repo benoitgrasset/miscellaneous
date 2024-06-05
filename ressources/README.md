@@ -4,7 +4,7 @@
 
 - [Tableau périodique des éléments HTML](https://madebymike.github.io/html5-periodic-table/#html)
 - [HTMhell](https://www.htmhell.dev/)
-- [CSS Grid Generator](https://cssgrid-generator.netlify.app/) 
+- [CSS Grid Generator](https://cssgrid-generator.netlify.app/)
 - [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 - [A Complete Guide to Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
 - [Can I use](https://caniuse.com/)
@@ -58,7 +58,7 @@
 
 - [card guru](https://cardguru.io/) - Create Test Credit Card Numbers
 
-## Authentification
+## Authentication
 
 - [AuthJS](https://authjs.dev/getting-started/introduction) - Auth.js is a complete open-source authentication solution for web applications (Next.js, SvelteKit, SolidStart)
 - [NextAuth.js](https://next-auth.js.org/)
@@ -78,6 +78,12 @@
 
 - [cally](https://wicky.nillia.ms/cally/)
 
+## Mailing
+
+- [Resend](https://resend.com/)
+- [Mailjet](https://www.mailjet.com/fr/)
+- [SendGrid](https://sendgrid.com/en-us)
+
 ## Graphs
 
 - https://d3js.org/
@@ -85,9 +91,24 @@
 - https://recharts.org/en-US/
 - https://www.chartjs.org/docs/latest/
 
+## WebSockets
+
+- [Ably](https://ably.com/)
+- [LiveBlocks](https://liveblocks.io/)
+- [Trigger.dev](https://trigger.dev/)
+
 ## Headless UI / unstyled components
 
 - https://headlessui.com/
 - https://react-spectrum.adobe.com/react-aria/
 - https://www.radix-ui.com/themes/docs/overview/getting-started
 - https://mantine.dev/
+
+## NextJS BoilerPlates
+
+- https://nexar.dev/learn
+- https://medusajs.com/nextjs-commerce/
+- https://github.com/zeon-studio/nextplate
+- https://create.t3.gg/en/usage/prisma
+- https://nowts.app/
+- [ShipFast](https://shipfa.st/)

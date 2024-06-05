@@ -25,19 +25,18 @@ Au choix, la plupart dans l'équipe utilisent [google chrome](https://www.google
 2 IDEs (au choix) sont utilisés par l'équipe front: Visual Studio Code ou IntelliJ IDEA.
 La dernière version de Visual Studio Code se trouve [ici](https://code.visualstudio.com/download), celle de IntelliJ IDEA [ici](https://www.jetbrains.com/fr-fr/idea/download/#section=mac).
 
-
 ## VSCode extensions
 
 - [Auto Close Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag)
 - [Auto Rename Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag)
+- [CSS Peek](https://marketplace.visualstudio.com/items?itemName=pranaygp.vscode-css-peek)
 - [Code Snapshot](https://marketplace.visualstudio.com/items?itemName=robertz.code-snapshot&ssr=false#overview)
 - [Console Ninja](https://marketplace.visualstudio.com/items?itemName=WallabyJs.console-ninja)
-- [CSS Peek](https://marketplace.visualstudio.com/items?itemName=pranaygp.vscode-css-peek)
 - [Docker](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker)
 - [ES7 React/Redux/GraphQL/React-Native snippets](https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets)
 - [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
-- [GitHub Actions](https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-github-actions)
 - [GiHub Pull Requests](https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-pull-request-github)
+- [GitHub Actions](https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-github-actions)
 - [GitHub Copilot](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot)
 - [GitLens - Git supercharged](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
 - [GitLive](https://marketplace.visualstudio.com/items?itemName=TeamHub.teamhub)
@@ -62,11 +61,14 @@ La dernière version de Visual Studio Code se trouve [ici](https://code.visualst
 ## Configuration de Git avec VS Code
 
 Pour que VS Code soit le diff tool par défaut:
+
 ```
     git config --global core.editor "code --wait"
     git config --global -e
 ```
+
 Il faut ensuite ajouter les lignes suivantes au fichier .gitconfig:
+
 ```
     [diff]
         tool = default-difftool
@@ -75,11 +77,13 @@ Il faut ensuite ajouter les lignes suivantes au fichier .gitconfig:
 ```
 
 Pour automatiquement nettoyer les objets Git du répertoire local à chaque fetch depuis le repertoire distant:
+
 ```
     git config --global fetch.prune true
 ```
 
 Pour appliquer les corrections ESLint partout:
+
 ```
   "editor.formatOnSave": true,
   "editor.codeActionsOnSave": {
@@ -91,14 +95,16 @@ Pour appliquer les corrections ESLint partout:
 ```
 
 **Settings**
+
 - Preferences -> Settings -> Files: Insert Final Newline
 
 ## Storybook
 
 Storybook est une bibliothèque qui permet de regrouper tous nos composants dans une sandbox, isolés du reste de l'application. On y décrit chaque composant avec ses différentes props. C'est un outil à la fois de tests et de documentation qui permet de faire le lien entre les développeurs et les designers.
-````
+
+```
     yarn run storybook
-````
+```
 
 ## Chromatic
 
@@ -131,8 +137,8 @@ jobs:
         with:
           projectToken: ${{ secrets.CHROMATIC_PROJECT_TOKEN }}
           onlyChanged: true
-          
- ```
+
+```
 
 ## Autres outils
 
@@ -144,9 +150,11 @@ jobs:
 - [create-t3-app](https://create.t3.gg/) boilerplate to start a full-stack, typesafe Next.js app
 
 Pour garantir le bon fonctionnement des tests, il faut ajouter le locale dans le fichier config de la shell :
-````
+
+```
     echo -n 'export LANG=en_US.UTF-8' >> ~/.zshrc
-````
+```
+
 - [oh-my-zsh](https://ohmyz.sh/#install) un outil permettant de manager simplement Zsh, la shell Unix par défaut sur macos
 - [iterm2](https://iterm2.com/downloads.html) un terminal enrichi pour macos
 - [Postman](https://www.postman.com/downloads/) une plateforme pour tester son API REST
@@ -155,7 +163,7 @@ Pour garantir le bon fonctionnement des tests, il faut ajouter le locale dans le
 - [ubar](https://brawersoftware.com/products/ubar) The Dock replacement for the Mac
 
 - **BDD**: DBeaver, PGAdmin
-- **Audio**:  Pavucontrol (PulseAudio VolUme Control)
+- **Audio**: Pavucontrol (PulseAudio VolUme Control)
 - **ABTesting**: Kameleoon
 - **Son**: NoiseTorch
 - HTop, Pop meetings
@@ -163,6 +171,7 @@ Pour garantir le bon fonctionnement des tests, il faut ajouter le locale dans le
 ## Code quality
 
 Detect duplicated code :
+
 ```
 npx jscpd --min-lines 15 --pattern "**/*.tsx"
 ```
