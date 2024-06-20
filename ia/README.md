@@ -28,6 +28,7 @@
 
 - https://www.tabnine.com/
 - https://github.com/features/copilot
+- [SuperMaven](https://supermaven.com/)
 
 ## Google
 
