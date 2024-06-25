@@ -7,6 +7,11 @@
 
 ### Hype Analytics
 
+- https://next.hype-analytics.com/dashboard
+- https://partner.hype-analytics.com/
+- https://partner.1dev.tech/
+
+
 **ROLE : admin** 
 ```
 tech@tornika.com
