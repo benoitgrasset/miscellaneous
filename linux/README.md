@@ -13,6 +13,7 @@
 | mkdir | create a new directory  |
 | which | identify the location of executables |
 | chmode | change permissions on your files |
+| help | displays brief summaries of shell builtin commands |
 
 
 open .bashrc:
