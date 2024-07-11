@@ -11,6 +11,7 @@
 | cd | change directory  |
 | cp | copy  |
 | mkdir | create a new directory  |
+| which | identify the location of executables |
 
 
 open .bashrc:
