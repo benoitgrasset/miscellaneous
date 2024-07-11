@@ -15,7 +15,7 @@
 **ROLE : admin** 
 ```
 tech@tornika.com
-Nrts5g&mjZd6!R&KBaxX
+vw7NgEU0AfiEp1mgdau97uWPM
 ```
 
 **ROLE : account manager**
