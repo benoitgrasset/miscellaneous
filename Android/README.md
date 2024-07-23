@@ -28,6 +28,12 @@
 
 https://en.miui.com/unlock/download_en.html
 
+## One Plus 10T
+
+- https://github.com/seanwlk/oneplus10t/releases/tag/CPH2415_14.0.0.710(EX01)
+- https://github.com/seanwlk/oneplus10t?tab=readme-ov-file
+- https://xdaforums.com/t/how-to-root-oneplus10t.4621009/
+
 ## Virtual Machine
 
 - [appetize.io](https://appetize.io/)
