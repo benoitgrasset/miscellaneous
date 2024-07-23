@@ -33,3 +33,4 @@ https://en.miui.com/unlock/download_en.html
 - [appetize.io](https://appetize.io/)
 - [bluestacks](https://www.bluestacks.com/download.html)
 - [genymotion](https://www.genymotion.com/)
+- [waydroid](https://waydro.id/)
