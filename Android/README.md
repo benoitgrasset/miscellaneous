@@ -34,3 +34,4 @@ https://en.miui.com/unlock/download_en.html
 - [bluestacks](https://www.bluestacks.com/download.html)
 - [genymotion](https://www.genymotion.com/)
 - [waydroid](https://waydro.id/)
+- [browserstack](https://www.browserstack.com/)
