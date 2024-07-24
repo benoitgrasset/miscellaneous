@@ -20,3 +20,10 @@
 - [Supabase](https://supabase.com/)
 
 - VPS Hostinger
+
+## Tools
+
+- https://azimutt.app/
+- https://drizzle.run/
+- https://www.pgadmin.org/
+- https://dbeaver.io/
