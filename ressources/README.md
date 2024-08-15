@@ -104,6 +104,13 @@
 - https://www.radix-ui.com/themes/docs/overview/getting-started
 - https://mantine.dev/
 
+## Library UI Tailwind
+
+- https://ui.shadcn.com/
+- https://nextui.org/
+- https://ui.aceternity.com/
+- https://www.ever-ui.com/
+
 ## NextJS BoilerPlates
 
 - https://nexar.dev/learn
