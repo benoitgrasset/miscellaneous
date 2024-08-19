@@ -18,7 +18,11 @@
 - [State of JS 2022 report](https://2022.stateofjs.com/en-US/)
 - [Tools (string, JSON, ...)](https://codeshack.io/tools/)
 - [JSON Crack](https://jsoncrack.com/editor)
+
+## Design - UI/UX
+
 - [modern fluid typography](https://modern-fluid-typography.vercel.app/) - Modern fluid typography editor
+- https://www.learnui.design/tools/gradient-generator.html?ck_subscriber_id=2489763267
 
 ## Documentation JS
 
@@ -27,7 +31,7 @@
 - [overapi](https://overapi.com/) - the JS cheatsheet
 - [eloquentjavascript.net](https://eloquentjavascript.net/)
 
-## Style
+## Style CSS
 
 - [JSS ](https://cssinjs.org/styled-jss/?v=v1.2.0)
 - [styled-components-vs-emotion](https://github.com/jsjoeio/styled-components-vs-emotion) - emotion can do objects and strings of CSS, also it's smaller and faster
