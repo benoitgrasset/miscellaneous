@@ -1,7 +1,6 @@
 ## DataBase
 
 - PostGreSQL (with https://neon.tech/)
-- https://planetscale.com/
 
 ## ORM
 
@@ -19,6 +18,7 @@
 - AWS dynamoDB
 - Amazon redshift / Azure Synapse / Snowflake / Google Big query
 - [Supabase](https://supabase.com/)
+- [planetscale](https://planetscale.com/)
 
 - VPS Hostinger
 
