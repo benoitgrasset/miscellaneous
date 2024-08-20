@@ -1,6 +1,7 @@
 ## DataBase
 
 - PostGreSQL (with https://neon.tech/)
+- https://planetscale.com/
 
 ## ORM
 
