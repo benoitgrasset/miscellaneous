@@ -35,6 +35,8 @@ https://www.secoda.co/
 
 Secoda est conçu pour les utilisateurs techniques et les analystes de données qui ont besoin de plus de flexibilité et de contrôle sur les données. Metabase, quant à lui, est plus adapté aux utilisateurs non techniques, tels que les responsables marketing ou les chefs de projet, qui cherchent à accéder rapidement aux données et à générer des rapports visuels pour prendre des décisions.
 
+### https://superset.apache.org/
+
 ## Monitoring: Grafana et Kibana
 
 **Grafana** et **Kibana** sont deux outils populaires d'analyse et de visualisation de données utilisés dans les environnements de production pour surveiller et analyser les données de l'infrastructure.
