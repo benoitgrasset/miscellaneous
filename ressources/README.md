@@ -18,7 +18,7 @@
 - [State of JS 2022 report](https://2022.stateofjs.com/en-US/)
 - [Tools (string, JSON, ...)](https://codeshack.io/tools/)
 - [JSON Crack](https://jsoncrack.com/editor)
-- [Signature Animation](https://codepen.io/kiranpate1/pen/ExBpaeW)
+- [Signature Animation](https://codepen.io/kiranpate1/pen/ExBpaeW): transform some text into manual handwritting
 
 ## Design - UI/UX
 
