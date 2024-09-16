@@ -10,7 +10,6 @@
 - [Can I use](https://caniuse.com/)
 - [Autoprefixer CSS online](https://autoprefixer.github.io/)
 - [Specifishity: CSS specificity](https://specifishity.com/)
-- [Introduction à styled-components](https://putaindecode.io/articles/introduction-a-styled-components/#:~:text=La%20force%20de%20styled%2Dcomponents,et%20un%20zeste%20de%20JavaScript.)
 - [explainshell](https://explainshell.com/explain?cmd=curl+-fsSL+example.org)
 - [crontab.guru](https://crontab.guru/)
 - [Built With](https://builtwith.com/) - Find out what websites are Built With
