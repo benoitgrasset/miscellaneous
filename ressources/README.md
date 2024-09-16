@@ -1,4 +1,4 @@
-- [awesome-react](https://github.com/enaqx/awesome-react/blob/master/README.md#autocomplete): A collection of awesome links regarding the React ecosystem
+- [awesome-react](https://github.com/enaqx/awesome-react/blob/master/README.md#autocomplete) - A collection of awesome links regarding the React ecosystem
 
 ## Liens utiles HTML/CSS/Javascript
 
@@ -18,7 +18,7 @@
 - [State of JS 2022 report](https://2022.stateofjs.com/en-US/)
 - [Tools (string, JSON, ...)](https://codeshack.io/tools/)
 - [JSON Crack](https://jsoncrack.com/editor)
-- [Signature Animation](https://codepen.io/kiranpate1/pen/ExBpaeW): transform some text into manual handwritting
+- [Signature Animation](https://codepen.io/kiranpate1/pen/ExBpaeW) - Transform some text into manual handwritting
 
 ## Design - UI/UX
 
