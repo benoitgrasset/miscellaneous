@@ -1,4 +1,4 @@
-- [awesome-react](https://github.com/enaqx/awesome-react/blob/master/README.md#autocomplete)
+- [awesome-react](https://github.com/enaqx/awesome-react/blob/master/README.md#autocomplete): A collection of awesome links regarding the React ecosystem
 
 ## Liens utiles HTML/CSS/Javascript
 
