@@ -138,3 +138,7 @@ The difference between primitive and non-primitive data types is that:
 
 - primitive data types are compared by value.
 - non-primitive data types are compared by reference.
+
+## Generators
+
+https://www.reactsquad.io/blog/understanding-generators-in-javascript
