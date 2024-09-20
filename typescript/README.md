@@ -35,7 +35,7 @@ Autocomplétion sur un type string:
 ```
 
 ```
-typeof [] === 'object'
+typeof [] === 'object' || typeof null === 'object'
 type CurrencyValidationSchemaType = InferType<typeof currencyValidationSchema>;
 type FormWizardType = ReturnType<typeof useFormWizard>;
 Awaited<ReturnType<typeof func>>
@@ -72,6 +72,9 @@ type Handlers = keyof HTMLElement & `on${string}`; -> filtre les clés de HTMLEl
 ## Useful functions
 
 Pick - Omit - Exclude - Partial - Record - Required
+
+- Omit: object type or interfaces
+- Exclude: union literal
 
 ## Prettify
 
