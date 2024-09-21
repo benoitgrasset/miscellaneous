@@ -26,6 +26,7 @@
 
 - https://azimutt.app/
 - https://drizzle.run/
-- https://www.pgadmin.org/
-- https://dbeaver.io/
+- https://www.pgadmin.org/: database tool
+- https://dbeaver.io/: database tool
 - https://microcks.io/
+- https://www.drawdb.app/editor
