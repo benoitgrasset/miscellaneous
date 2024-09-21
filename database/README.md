@@ -18,6 +18,7 @@
 - AWS dynamoDB
 - Amazon redshift / Azure Synapse / Snowflake / Google Big query
 - [Supabase](https://supabase.com/)
+- [neon](https://neon.tech/)
 - [planetscale](https://planetscale.com/)
 
 - VPS Hostinger
