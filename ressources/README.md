@@ -126,6 +126,8 @@
 - https://create.t3.gg/en/usage/prisma
 - https://nowts.app/
 - [ShipFast](https://shipfa.st/)
+- [superplate](https://pankod.github.io/superplate/)
+- [Kirimase](https://kirimase.dev/)
 
 ## DND Drag and Drop
 
