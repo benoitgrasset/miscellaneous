@@ -26,6 +26,7 @@
 
 - [modern fluid typography](https://modern-fluid-typography.vercel.app/) - Modern fluid typography editor
 - https://www.learnui.design/tools/gradient-generator.html?ck_subscriber_id=2489763267
+- https://www.joshwcomeau.com/gradient-generator/
 
 ## Documentation JS
 
