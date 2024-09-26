@@ -43,6 +43,11 @@
 - [tss-react](https://www.tss-react.dev/)
 - https://nextjs.org/docs/app/building-your-application/styling/css-in-js
 
+## Icônes
+
+- https://feathericons.com/
+- https://react-icons.github.io/react-icons/
+
 ## Jeux
 
 - [CSS battle](https://cssbattle.dev/)
