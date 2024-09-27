@@ -42,3 +42,8 @@
 ### LAM (Large Action Models)
 
 - [llama3](https://github.com/meta-llama/llama3)
+
+### Convert text to visuals
+
+- https://www.napkin.ai/: Napkin turns your text into visuals so sharing your ideas is quick and effective.
+
