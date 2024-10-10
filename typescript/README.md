@@ -145,3 +145,9 @@ The difference between primitive and non-primitive data types is that:
 ## Generators
 
 https://www.reactsquad.io/blog/understanding-generators-in-javascript
+
+## URLs
+
+```js
+const url = new URL(url)
+```
