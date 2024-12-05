@@ -50,6 +50,17 @@
 - [tss-react](https://www.tss-react.dev/)
 - https://nextjs.org/docs/app/building-your-application/styling/css-in-js
 
+### Fonts
+
+- Poppins
+- Monteserrat
+- Manrope
+
+### Inspirations
+
+- Dribble
+- Behance
+
 ## Icônes
 
 - https://feathericons.com/
