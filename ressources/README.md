@@ -53,7 +53,7 @@
 ### Fonts
 
 - Poppins
-- Monteserrat
+- Montserrat
 - Manrope
 - Satoshi
 
