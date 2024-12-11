@@ -55,6 +55,7 @@
 - Poppins
 - Monteserrat
 - Manrope
+- Satoshi
 
 ### Inspirations
 
