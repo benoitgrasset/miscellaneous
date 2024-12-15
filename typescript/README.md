@@ -154,8 +154,10 @@ const url = new URL(url)
 
 ## Pipe
 
+```js
 const pipe = (...fns) => input => fns.reduce(
   (acc, fn) => fn(acc), input
 )
 
 pipe(toUpperCase, removeSpaces, addExclamation)
+```
