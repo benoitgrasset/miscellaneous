@@ -151,3 +151,11 @@ https://www.reactsquad.io/blog/understanding-generators-in-javascript
 ```js
 const url = new URL(url)
 ```
+
+## Pipe
+
+const pipe = (...fns) => input => fns.reduce(
+  (acc, fn) => fn(acc), input
+)
+
+pipe(toUpperCase, removeSpaces, addExclamation)
