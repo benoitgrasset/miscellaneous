@@ -1,3 +1,6 @@
+
+https://artificialanalysis.ai/text-to-image/arena?tab=Leaderboard
+
 ## Generation d'images
 
 - [DALL-E 2](https://labs.openai.com/)
