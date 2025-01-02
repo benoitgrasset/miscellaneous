@@ -71,6 +71,7 @@
 - https://feathericons.com/
 - https://react-icons.github.io/react-icons/
 - https://fonts.google.com/icons?icon.set=Material+Symbols
+- https://www.svgrepo.com/
 
 ## Jeux
 
