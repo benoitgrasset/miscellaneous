@@ -107,6 +107,7 @@
 
 - [Faker](https://fakerjs.dev/)
 - [Chance](https://chancejs.com/index.html)
+- [Falso](https://ngneat.github.io/falso/docs/getting-started/)
 
 ## Format
 
