@@ -88,6 +88,7 @@
 ## Bundlers
 
 - [JS bundlers report](https://bundlers.tooling.report/)
+- https://rspack.dev/
 
 ## REST API
 
