@@ -14,7 +14,7 @@ Sentry, Datadog et Google Analytics sont des outils logiciels utilisés pour des
   ensuite utiliser ces informations pour améliorer leur site web et leur contenu.
   -> Alternative free: **matomo**
 
- - **Plausible** - **Mixpanel** - **Amplitude**
+ - **Plausible** - **Mixpanel** - **Amplitude** - **Posthog**
 
 En résumé, Sentry est utilisé pour surveiller les erreurs dans le code, Datadog pour surveiller les performances de l'infrastructure informatique,
 tandis que Google Analytics est utilisé pour surveiller et analyser le comportement des utilisateurs sur un site web.
