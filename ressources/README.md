@@ -37,6 +37,7 @@
 - https://www.learnui.design/tools/gradient-generator.html?ck_subscriber_id=2489763267
 - [gradient-generator](https://www.joshwcomeau.com/gradient-generator/)
 - [color generator with hsl](https://www.iamsajid.com/colors/)
+- https://photogradient.com/
 
 ## Documentation JS
 
