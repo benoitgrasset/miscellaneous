@@ -135,6 +135,10 @@
 - https://recharts.org/en-US/
 - https://www.chartjs.org/docs/latest/
 
+## Complete Dashboard
+
+- https://blocks.tremor.so/templates
+
 ## WebSockets
 
 - [Ably](https://ably.com/)
