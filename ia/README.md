@@ -17,13 +17,15 @@ https://artificialanalysis.ai/text-to-image/arena?tab=Leaderboard
 ## IA conversationnelle
 
 - [chatGPT3](https://chat.openai.com/chat)
-- [Mistral AI](https://mistral.ai/fr/)
+- [Mistral AI](https://mistral.ai/fr/) - https://chat.mistral.ai/chat (modèle Pixtral)
 - [huggingface 🤗](https://huggingface.co/chat/)
 - [Gemini](https://gemini.google.com/app)
-- https://claude.ai/
+- https://claude.ai/ (modèle Claude 3.7 Sonnet) - Anthropic
 - https://copilot.microsoft.com/
 - https://groq.com/
 - [Open LLM Leaderboard](https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard)
+- Perplexity
+- DeepSeek
 
 ## IDE
 
