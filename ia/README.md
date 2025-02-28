@@ -23,6 +23,7 @@ https://artificialanalysis.ai/text-to-image/arena?tab=Leaderboard
 - https://claude.ai/ (modèle Claude 3.7 Sonnet) - Anthropic
 - https://copilot.microsoft.com/
 - https://groq.com/
+- https://grok.com/?referrer=website
 - [Open LLM Leaderboard](https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard)
 - Perplexity
 - DeepSeek
