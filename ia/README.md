@@ -8,8 +8,8 @@ https://artificialanalysis.ai/text-to-image/arena?tab=Leaderboard
 |------------------|-------------------|--------------------------|
 | **GPT-4**       | OpenAI             | Non divulgué (estimé entre 1T et 1.8T) |
 | **Gemini 1.5**  | Google DeepMind    | Non divulgué |
-| **Claude 3**    | Anthropic          | Non divulgué |
-| **Mistral 7B**  | Mistral AI         | 7 milliards |
+| **Claude 3** - 3.7 Sonnet    | Anthropic          | Non divulgué |
+| **Mistral 7B** - Pixtral Large | Mistral AI         | 7 milliards |
 | **Llama 3**     | Meta               | Non divulgué (Llama 2 existait en 7B, 13B, 65B) |
 | **Command R**   | Cohere             | Non divulgué |
 | **Grok**        | xAI (Elon Musk)    | Non divulgué |
