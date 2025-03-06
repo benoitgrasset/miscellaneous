@@ -161,3 +161,9 @@ const pipe = (...fns) => input => fns.reduce(
 
 pipe(toUpperCase, removeSpaces, addExclamation)
 ```
+
+## Other
+
+const capitalize = ([firstLetter, ...restOfWord]) => {
+  return firstLetter.toUpperCase() + restOfWord.join('')
+}
