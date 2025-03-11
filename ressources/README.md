@@ -40,6 +40,14 @@
 
 - https://usehooks-ts.com/introduction
 
+## Fetch
+
+- https://github.com/L-Blondy/up-fetch
+
+## Search engine
+
+- https://www.meilisearch.com/
+
 ## Design - UI/UX
 
 - [modern fluid typography](https://modern-fluid-typography.vercel.app/) - Modern fluid typography editor
@@ -167,6 +175,7 @@
 - https://nextui.org/
 - https://ui.aceternity.com/
 - https://www.ever-ui.com/
+- https://daisyui.com/
 
 ## NextJS BoilerPlates
 
