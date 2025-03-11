@@ -155,6 +155,7 @@
 ## Complete Dashboard
 
 - https://blocks.tremor.so/templates
+- https://nexus.daisyui.com/
 
 ## WebSockets
 
