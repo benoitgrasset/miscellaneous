@@ -1,3 +1,11 @@
+## Git config
+
+```
+git config --global -e
+```
+
+https://blog.gitbutler.com/how-git-core-devs-configure-git/
+
 #### skip single file from git worktree (already committed)
 ```
 git update-index --skip-worktree file.html
