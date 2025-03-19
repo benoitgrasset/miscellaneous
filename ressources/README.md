@@ -43,10 +43,12 @@
 ## Fetch
 
 - https://github.com/L-Blondy/up-fetch
+- https://github.com/bekacru/better-fetch
 
 ## Search engine
 
 - https://www.meilisearch.com/
+- Algolia
 
 ## Design - UI/UX
 
@@ -113,6 +115,14 @@
 ## REST API
 
 - [reqbin](https://reqbin.com/) - Online REST & SOAP API Testing Tool
+
+## Backend
+
+- Adonis
+- Hono
+- Nextjs
+- NestJs
+- Express (old)
 
 ## Payment Card
 
