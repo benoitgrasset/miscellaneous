@@ -44,6 +44,7 @@
 
 - https://github.com/L-Blondy/up-fetch
 - https://github.com/bekacru/better-fetch
+- https://github.com/unjs/ofetch
 
 ## Search engine
 
