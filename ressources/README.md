@@ -46,6 +46,10 @@
 - https://github.com/bekacru/better-fetch
 - https://github.com/unjs/ofetch
 
+## Performance / debug
+
+- https://react-scan.com/
+
 ## Search engine
 
 - https://www.meilisearch.com/
