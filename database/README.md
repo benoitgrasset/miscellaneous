@@ -27,6 +27,7 @@
 ## Tools
 
 - https://azimutt.app/: Database explorer and analyzer
+- https://duckdb.org/
 - https://drizzle.run/
 - https://www.pgadmin.org/: database tool
 - https://dbeaver.io/: database tool
