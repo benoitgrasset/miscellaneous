@@ -123,7 +123,7 @@
 
 ## Backend
 
-- Adonis
+- Adonis (Symfony -> Laravel -> Adonis)
 - Hono
 - Nextjs
 - NestJs
