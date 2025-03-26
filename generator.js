@@ -35,5 +35,5 @@ async function* fetchUser() {
   }
 }
 
-const fetchUsersPromise = fetchUsers().next().value;
+const fetchUsersPromise = fetchUser().next().value;
 fetchUsersPromise.then(res => console.log(res));
