@@ -32,4 +32,4 @@
 
 ## Others
 
-- https://numbr.dev/#new
+- https://numbr.dev/#new: A smart calculator combined with a notepad
