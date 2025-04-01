@@ -26,6 +26,9 @@
 - Figma
 - inkscape
 
+## CSV
+
+- https://github.com/medialab/xan: The CSV magician
 
 ## Others
 
