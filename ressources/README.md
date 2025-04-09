@@ -45,6 +45,11 @@
 - https://github.com/L-Blondy/up-fetch
 - https://github.com/bekacru/better-fetch
 - https://github.com/unjs/ofetch
+- https://github.com/sindresorhus/ky
+
+## Parsing
+
+- papaparse
 
 ## Performance / debug
 
