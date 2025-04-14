@@ -9,3 +9,9 @@
 - It also means you don’t have to expose API keys in the browser or worry about CORS
  
 - They can also be pre-rendered or cached on the server
+
+
+## Downsides
+
+- More complex
+- Higher demand for server resources - Increased Server Load - Increased cost - Scalability and performance
