@@ -60,6 +60,12 @@
 - https://www.meilisearch.com/
 - Algolia
 
+## Shadcn-ui
+
+- https://ui.shadcn.com/
+- https://ui.jln.dev/
+- https://tweakcn.com/editor/theme
+
 ## Design - UI/UX
 
 - [modern fluid typography](https://modern-fluid-typography.vercel.app/) - Modern fluid typography editor
@@ -97,6 +103,7 @@
 - https://www.awwwards.com/
 - https://unsplash.com/fr/s/photos/paper?license=free
 - http://linears.art/
+- https://21st.dev/?tab=components&sort=recommended
 
 ## Icônes
 
