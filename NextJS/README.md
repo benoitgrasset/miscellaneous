@@ -11,7 +11,7 @@
 - They can also be pre-rendered or cached on the server
 
 
-## Downsides
+## Drawbacks
 
 - More complex
 - Higher demand for server resources - Increased Server Load - Increased cost - Scalability and performance
