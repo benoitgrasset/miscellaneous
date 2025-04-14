@@ -63,8 +63,8 @@
 ## Shadcn-ui
 
 - https://ui.shadcn.com/
-- https://ui.jln.dev/
-- https://tweakcn.com/editor/theme
+- https://ui.jln.dev/: 10000+ Themes for shadcn/ui
+- https://tweakcn.com/editor/theme: Beautiful themes for shadcn/ui
 
 ## Design - UI/UX
 
