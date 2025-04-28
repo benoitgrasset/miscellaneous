@@ -74,7 +74,6 @@
 - [color generator with hsl](https://www.iamsajid.com/colors/)
 - https://photogradient.com/
 - https://culorijs.org/: conversion and manipulation of all formats defined in the CSS Colors Level 4 specification
-- 
 
 ## Documentation JS
 
