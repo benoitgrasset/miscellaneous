@@ -12,6 +12,11 @@
 - [mural](https://www.mural.co/)
 - [figjam](https://www.figma.com/fr/figjam/)
 
+## Others
+
+- Jam.dev
+- [Pinta](https://www.pinta-project.com/)
+
 ## Diagrammes / UML
 
 - [draw.io](https://app.diagrams.net/)
