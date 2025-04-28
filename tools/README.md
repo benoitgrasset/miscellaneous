@@ -14,7 +14,7 @@
 
 ## Others
 
-- Jam.dev
+- [jam.dev](https://jam.dev/)
 - [Pinta](https://www.pinta-project.com/)
 
 ## Diagrammes / UML
