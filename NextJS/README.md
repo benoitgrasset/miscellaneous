@@ -1,4 +1,4 @@
-## Server component
+ ## Server component
 
 - Server-side data fetching
 
@@ -31,8 +31,8 @@ https://codelynx.dev/posts/2024-09-03-organisation-fichier-nextjs
 
 ### Robots.txt
 
-Add a `robots.txt` file in the root of app directory to tell search engine crawlers which URLs they can access on your site.
+Add a `robots.txt` file in the root of app directory to tell search engine crawlers which URLs they can access on your site. (or `robots.ts`)
 
 ### Sitemap.xml
 
-Add a `sitemap.xml` file int the root of app directory to help search engine crawlers crawl your site more efficiently.
+Add a `sitemap.xml` file int the root of app directory to help search engine crawlers crawl your site more efficiently. (or `sitemap.ts`)
