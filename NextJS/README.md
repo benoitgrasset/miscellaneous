@@ -36,3 +36,7 @@ Add a `robots.txt` file in the root of app directory to tell search engine crawl
 ### Sitemap.xml
 
 Add a `sitemap.xml` file int the root of app directory to help search engine crawlers crawl your site more efficiently. (or `sitemap.ts`)
+
+### Other
+
+Google Search Console
