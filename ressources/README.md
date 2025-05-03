@@ -228,3 +228,16 @@
 - https://drag-and-drop.formkit.com/
 - https://swapy.tahazsh.com/
 - https://atlassian.design/components/pragmatic-drag-and-drop/about
+
+
+## @tanstack/react-query
+
+```js
+import '@tanstack/react-query'
+
+declare module '@tanstack/react-query' {
+  interface Register {
+    defaultError: unknown
+  }
+}
+```
