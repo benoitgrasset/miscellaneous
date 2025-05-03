@@ -244,7 +244,7 @@ declare module '@tanstack/react-query' {
 
 ## Stacks
 
-- BHVR: Bun Hone Vite React - https://bhvr.dev
+- BHVR: Bun Hono Vite React - https://bhvr.dev
 - TALL: Tailwind AlpineJs Livewire laravel - https://tallstack.dev/
 - VILT: Vue.JS Inertia.JS Laravel Tailwind - https://viltstack.dev/
 - pocketbase + svelte
