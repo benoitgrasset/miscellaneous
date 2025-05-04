@@ -245,6 +245,9 @@ declare module '@tanstack/react-query' {
 ## Stacks
 
 - BHVR: Bun Hono Vite React - https://bhvr.dev
-- TALL: Tailwind AlpineJs Livewire laravel - https://tallstack.dev/
+- TALL: Tailwind AlpineJs Livewire Laravel - https://tallstack.dev/
 - VILT: Vue.JS Inertia.JS Laravel Tailwind - https://viltstack.dev/
-- pocketbase + svelte
+- Pocketbase + Svelte
+
+**Livewire:**  front-end UIs in PHP
+**Inertia.JS:** a "glue" layer between the backend and frontend, no need to build a REST or GraphQL API. Use Laravel for routing, authentication, validation, and business logic.
