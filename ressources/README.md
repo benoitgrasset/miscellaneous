@@ -250,4 +250,5 @@ declare module '@tanstack/react-query' {
 - Pocketbase + Svelte
 
 **Livewire:**  front-end UIs in PHP
+
 **Inertia.JS:** a "glue" layer between the backend and frontend, no need to build a REST or GraphQL API. Use Laravel for routing, authentication, validation, and business logic.
