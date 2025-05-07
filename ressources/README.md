@@ -101,6 +101,7 @@
 
 - Dribble
 - Behance
+- [ProductHunt](https://www.producthunt.com/)
 - https://www.awwwards.com/
 - https://unsplash.com/fr/s/photos/paper?license=free
 - http://linears.art/
@@ -186,6 +187,7 @@
 
 - https://blocks.tremor.so/templates
 - https://nexus.daisyui.com/
+- https://www.basedash.com/: Connect Basedash directly to your database to build dashboards and query your data in minutes
 
 ## WebSockets
 
