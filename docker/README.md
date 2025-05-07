@@ -1,4 +1,4 @@
-## Docker commands
+## Main Docker commands
 
 `docker ps`
 Provides a list of the Docker containers on your machine.
@@ -44,3 +44,13 @@ Uploads a local image to a Docker registry.
 
 `docker-compose up`
 Starts services defined in a docker-compose.yml file (great for multi-container setups).
+
+
+## Basic Docker commands
+
+```
+sudo docker build -t my-app .
+sudo docker images
+sudo docker run -p 3000:3000 my-app	/ docker run -it my-app
+curl http://localhost:3000
+```
