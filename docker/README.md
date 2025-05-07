@@ -50,7 +50,13 @@ Starts services defined in a docker-compose.yml file (great for multi-container 
 
 ```
 sudo docker build -t my-app .
+```
+```
 sudo docker images
+```
+```
 sudo docker run -p 3000:3000 my-app	/ docker run -it my-app
+```
+```
 curl http://localhost:3000
 ```
