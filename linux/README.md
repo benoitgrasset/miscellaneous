@@ -28,6 +28,7 @@ sudo open ~/.profile
 
 Install packages with **snap** / **apt**
 
+Install `.deb` with `sudo dpkg -i package`
 
 ## Test Linux distros online
 
