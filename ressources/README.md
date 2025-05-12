@@ -212,6 +212,7 @@
 - https://ui.aceternity.com/
 - https://www.ever-ui.com/
 - https://daisyui.com/
+- https://originui.com/
 
 ## NextJS BoilerPlates
 
