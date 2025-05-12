@@ -14,6 +14,7 @@
 | which | identify the location of executables |
 | chmode | change permissions on your files |
 | help | displays brief summaries of shell builtin commands |
+| source | read a file and treat its content as a set of commands to execute |
 
 
 open .bashrc:
