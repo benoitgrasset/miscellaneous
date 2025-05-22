@@ -230,6 +230,7 @@
 - [ShipFast](https://shipfa.st/)
 - [superplate](https://pankod.github.io/superplate/)
 - [Kirimase](https://kirimase.dev/)
+- https://github.com/Skolaczk/next-starter
 
 ## DND Drag and Drop
 
