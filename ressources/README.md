@@ -70,6 +70,7 @@
 - https://ui.shadcn.com/
 - https://ui.jln.dev/: 10000+ Themes for shadcn/ui
 - https://tweakcn.com/editor/theme: Beautiful themes for shadcn/ui
+- https://21st.dev/?tab=components&sort=recommended
 
 ## Design - UI/UX
 
