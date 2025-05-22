@@ -12,7 +12,7 @@
 | cp | copy  |
 | mkdir | create a new directory  |
 | which | identify the location of executables |
-| chmode | change permissions on your files |
+| chmode | change permissions on your files: ``chmod +x my.AppImage |
 | help | displays brief summaries of shell builtin commands |
 | source | read a file and treat its content as a set of commands to execute |
 
