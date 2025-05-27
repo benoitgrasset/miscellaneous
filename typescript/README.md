@@ -71,10 +71,10 @@ type Handlers = keyof HTMLElement & `on${string}`; -> filtre les clés de HTMLEl
 
 ## Useful functions
 
-Pick - Omit - Exclude - Partial - Record - Required
+Pick - Omit - Exclude - Partial - Record - Required - Extract
 
-- **Omit**: object type or interfaces
-- **Exclude**: union literal
+- **Pick / Omit**: object type or interfaces
+- **Extract / Exclude**: union types
 
 ## Prettify
 
