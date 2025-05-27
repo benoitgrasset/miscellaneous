@@ -239,6 +239,14 @@
 - https://swapy.tahazsh.com/
 - https://atlassian.design/components/pragmatic-drag-and-drop/about
 
+## bundle phobia
+
+- [Node Modules Inspector](https://node-modules.dev/)
+- [pkg-size](https://pkg-size.dev/)
+- [dep-tree](https://github.com/gabotechs/dep-tree)
+- [npm graph](https://npmgraph.js.org/)
+- [e18e.dev](https://e18e.dev/)
+- https://github.com/es-tooling/module-replacements?tab=readme-ov-file
 
 ## @tanstack/react-query
 
