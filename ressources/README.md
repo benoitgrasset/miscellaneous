@@ -103,6 +103,14 @@
 - Manrope
 - Satoshi
 
+## UI/UX
+
+- Copywriting
+- Visuels
+- Typography (font size, font weight)
+- Colors
+- Spacings
+
 ### Inspirations
 
 - Dribble
