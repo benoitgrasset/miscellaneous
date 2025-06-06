@@ -12,6 +12,13 @@
 - [Postman](https://www.postman.com/)
 
 
+## DNS
+
+CNAME: nom -> nom (canonical name)
+
+- `nslookup domainName`
+
+
 ## Request
 
 ### Polling (HTTP request)
