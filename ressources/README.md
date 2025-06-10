@@ -190,7 +190,7 @@
 - [Mailjet](https://www.mailjet.com/fr/)
 - [SendGrid](https://sendgrid.com/en-us)
 
-## A/B Testing
+## A/B Testing
 
 - configcat.com
 - Kameleoon
