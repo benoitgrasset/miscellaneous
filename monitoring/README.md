@@ -21,6 +21,10 @@ tandis que Google Analytics est utilisé pour surveiller et analyser le comporte
 
 Alternative to Google Analytics: [Plausible](https://plausible.io/)
 
+### How to Integrate Plausible Analytics in a Next.js App (Without Getting Blocked)
+
+[How to Integrate Plausible Analytics in a Next.js App (Without Getting Blocked)](https://mxd.codes/articles/how-to-integrate-plausible-analytics-in-a-next-js-app-without-getting-blocked?ck_subscriber_id=2397963523&utm_source=convertkit&utm_medium=email&utm_campaign=%E2%9A%9B%EF%B8%8F%20This%20Week%20In%20React%20#proxy-the-plausible-script-and-api)
+
 ## Visualisation des données d'une base de données
 
 ### Metabase
