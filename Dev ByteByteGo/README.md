@@ -1,5 +1,5 @@
 
-[ACID](./ACID.webp)
+![image](./ACID.webp)
 
 - ACID.png
 - 'HTTP methods.webp'
