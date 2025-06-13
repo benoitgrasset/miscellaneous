@@ -1,5 +1,26 @@
+## Base de données
 
 ![image](./ACID.webp)
+
+![image](./ACID.png)
+
+## Design
+
+![image](./instagram.webp)
+
+## Authentication
+
+![image](./JWT.webp)
+
+![image](./JWT.jpg)
+
+## HTTP methods
+
+![image](./HTTP%20methods.webp)
+
+![image](./API%20design.webp)
+
+![image](./API%20testing.webp)
 
 - ACID.png
 - 'HTTP methods.webp'
