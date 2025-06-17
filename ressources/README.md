@@ -78,6 +78,7 @@
 - https://www.learnui.design/tools/gradient-generator.html?ck_subscriber_id=2489763267
 - [gradient-generator](https://www.joshwcomeau.com/gradient-generator/)
 - [color generator with hsl](https://www.iamsajid.com/colors/)
+- [Coolors](https://coolors.co/) or [Figma's palette generator](https://www.figma.com/color-palette-generator/)
 - https://photogradient.com/
 - https://culorijs.org/: conversion and manipulation of all formats defined in the CSS Colors Level 4 specification
 
