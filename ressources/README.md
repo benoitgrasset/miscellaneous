@@ -1,3 +1,4 @@
+
 +- [awesome-react](https://github.com/enaqx/awesome-react/blob/master/README.md#autocomplete) - A collection of awesome links regarding the React ecosystem
 
 ## Liens utiles HTML/CSS/Javascript
@@ -267,6 +268,12 @@
 - [npm graph](https://npmgraph.js.org/)
 - [e18e.dev](https://e18e.dev/)
 - https://github.com/es-tooling/module-replacements?tab=readme-ov-file
+
+## Scrapping
+
+- [Playwrigth](https://playwright.dev/)
+- [Airtop](https://www.airtop.ai/)
+- [beach-patrol](https://github.com/sebastiancarlos/beachpatrol?tab=readme-ov-file)
 
 ## @tanstack/react-query
 
