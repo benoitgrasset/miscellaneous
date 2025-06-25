@@ -274,6 +274,8 @@
 - [Playwrigth](https://playwright.dev/)
 - [Airtop](https://www.airtop.ai/)
 - [beach-patrol](https://github.com/sebastiancarlos/beachpatrol?tab=readme-ov-file)
+- https://github.com/Kaliiiiiiiiii-Vinyzu/patchright
+- https://www.npmjs.com/package/playwright-extra
 
 ## @tanstack/react-query
 
