@@ -33,6 +33,7 @@ La dernière version de Visual Studio Code se trouve [ici](https://code.visualst
 - [Auto Close Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag)
 - [Auto Rename Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag)
 - [CSS Peek](https://marketplace.visualstudio.com/items?itemName=pranaygp.vscode-css-peek)
+- [CodeRabbit](https://marketplace.visualstudio.com/items?itemName=CodeRabbit.coderabbit-vscode)
 - [Code Snapshot](https://marketplace.visualstudio.com/items?itemName=robertz.code-snapshot&ssr=false#overview)
 - [Console Ninja](https://marketplace.visualstudio.com/items?itemName=WallabyJs.console-ninja)
 - [Docker](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker)
