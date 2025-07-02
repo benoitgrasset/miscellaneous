@@ -240,6 +240,7 @@
 - https://www.ever-ui.com/
 - https://daisyui.com/
 - https://originui.com/
+- https://base-ui.com/react/overview/quick-start
 
 ## NextJS BoilerPlates
 
