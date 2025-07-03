@@ -22,6 +22,7 @@ Au choix, la plupart dans l'équipe utilisent [google chrome](https://www.google
 - [visbug](https://chromewebstore.google.com/detail/visbug/cdockenadnadldjbbgcallicgledbeoc?hl=en)
 - [web developer tools](https://chrome.google.com/webstore/detail/web-developer/bfbameneiokkgbdmiekhjnmfkcnldhhm?hl=fr)
 - [consent-o-matic](https://chromewebstore.google.com/detail/consent-o-matic/mdjildafknihdffpkfmmpnpoiajfjnjd?hl=en)
+- [YouTube No Translation](https://chromewebstore.google.com/detail/youtube-no-translation/lmkeolibdeeglfglnncmfleojmakecjb)
 
 ## IDE
 
