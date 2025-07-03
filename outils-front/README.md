@@ -23,6 +23,8 @@ Au choix, la plupart dans l'équipe utilisent [google chrome](https://www.google
 - [web developer tools](https://chrome.google.com/webstore/detail/web-developer/bfbameneiokkgbdmiekhjnmfkcnldhhm?hl=fr)
 - [consent-o-matic](https://chromewebstore.google.com/detail/consent-o-matic/mdjildafknihdffpkfmmpnpoiajfjnjd?hl=en)
 - [YouTube No Translation](https://chromewebstore.google.com/detail/youtube-no-translation/lmkeolibdeeglfglnncmfleojmakecjb)
+- [html.to.design](https://chromewebstore.google.com/detail/htmltodesign/ldnheaepmnmbjjjahokphckbpgciiaed)
+- [Pure VPN](https://chromewebstore.google.com/detail/pure-vpn-proxy-meilleur-v/bfidboloedlamgdmenmlbipfnccokknp?hl=fr&source=korben.info)
 
 ## IDE
 
