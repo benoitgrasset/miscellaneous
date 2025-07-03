@@ -253,6 +253,7 @@
 - [superplate](https://pankod.github.io/superplate/)
 - [Kirimase](https://kirimase.dev/)
 - https://github.com/Skolaczk/next-starter
+- [Better-T-Stack](https://github.com/AmanVarshney01/create-better-t-stack)
 
 ## DND Drag and Drop
 
