@@ -27,6 +27,7 @@
 - [Supporting Offline Mode in TanStack Query](https://click.convertkit-mail4.com/5qu9lk5m6mf7hven60qu6h9pxg444sn/m2h7h6u8dl0n3vcl/aHR0cHM6Ly9sdWNhcy1iYXJha2UuZ2l0aHViLmlvL3BlcnNpc3RpbmctdGFudHNhY2stcXVlcnktZGF0YS1sb2NhbGx5Lw==): Using the Effect library.
 - [Better Code Rendering Through Virtualization](https://sentry.engineering/blog/better-code-rendering-through-virtualization?ck_subscriber_id=2397963523&utm_source=convertkit&utm_medium=email&utm_campaign=%E2%9A%9B%EF%B8%8F%20This%20Week%20In%20React%20#212:%20Astro,%20Next.js,%20Storybook,%20INP,%20Virtualization,%20WebXR,%20LiveView,%20Radon,%20Yoga,%20Unistyles,%20gluestack,%20Expo-Video,%20Node,%20Playwright,%20Prisma,%20Undici...%20-%2015878176)
 - https://pmnd.rs/
+- https://voidzero.dev/: Next Generation Tooling for [JavaScript]
 
 ## Next JS
 
@@ -127,6 +128,7 @@
 - http://linears.art/
 - https://21st.dev/?tab=components&sort=recommended
 - https://calltoinspiration.com/
+- https://v0.dev/
 
 ## Icônes
 
