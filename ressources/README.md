@@ -225,26 +225,28 @@
 - https://react-spectrum.adobe.com/react-aria/
 - https://www.radix-ui.com/themes/docs/overview/getting-started
 - https://mantine.dev/
+- https://base-ui.com/
 - [reachUI](https://reach.tech/)
 
 ## Library UI Tailwind
 
-- https://ui.shadcn.com/
-- https://nextui.org/
+- https://ui.shadcn.com/: built on top of [radix-ui](https://www.radix-ui.com/)
+- https://www.heroui.com/: built on top of [React Aria](https://react-spectrum.adobe.com/react-aria/)
+- https://daisyui.com/
+
+## Beautiful UI components built with Tailwind CSS
+
 - https://ui.aceternity.com/
 - https://www.ever-ui.com/
-- https://daisyui.com/
+- https://magicui.design/: 150+ free and open-source animated components and effects built with React, Typescript, Tailwind CSS, and Motion.
+Perfect companion for shadcn/ui.
 - https://originui.com/
-- https://base-ui.com/
 
 ## Shadcn-ui
 
-- https://ui.shadcn.com/: built on top of [radix-ui](https://www.radix-ui.com/)
 - https://ui.jln.dev/: 10000+ Themes for shadcn/ui
 - https://tweakcn.com/editor/theme: Beautiful themes for shadcn/ui
-- https://21st.dev/?tab=components&sort=recommended
-- https://magicui.design/: 150+ free and open-source animated components and effects built with React, Typescript, Tailwind CSS, and Motion.
-Perfect companion for shadcn/ui.
+- https://21st.dev/?tab=components&sort=recommended: Discover, share, and craft UI components
 
 ## NextJS BoilerPlates
 
