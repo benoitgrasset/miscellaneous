@@ -67,15 +67,6 @@
 - https://www.meilisearch.com/
 - Algolia
 
-## Shadcn-ui
-
-- https://ui.shadcn.com/: built on top of [radix-ui](https://www.radix-ui.com/)
-- https://ui.jln.dev/: 10000+ Themes for shadcn/ui
-- https://tweakcn.com/editor/theme: Beautiful themes for shadcn/ui
-- https://21st.dev/?tab=components&sort=recommended
-- https://magicui.design/: 150+ free and open-source animated components and effects built with React, Typescript, Tailwind CSS, and Motion.
-Perfect companion for shadcn/ui.
-
 ## Design - UI/UX
 
 - [modern fluid typography](https://modern-fluid-typography.vercel.app/) - Modern fluid typography editor
@@ -245,6 +236,15 @@ Perfect companion for shadcn/ui.
 - https://daisyui.com/
 - https://originui.com/
 - https://base-ui.com/
+
+## Shadcn-ui
+
+- https://ui.shadcn.com/: built on top of [radix-ui](https://www.radix-ui.com/)
+- https://ui.jln.dev/: 10000+ Themes for shadcn/ui
+- https://tweakcn.com/editor/theme: Beautiful themes for shadcn/ui
+- https://21st.dev/?tab=components&sort=recommended
+- https://magicui.design/: 150+ free and open-source animated components and effects built with React, Typescript, Tailwind CSS, and Motion.
+Perfect companion for shadcn/ui.
 
 ## NextJS BoilerPlates
 
