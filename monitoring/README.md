@@ -117,9 +117,9 @@ Objectifs et utilisations:
 - **Loki** *(stack de logs compatible Grafana)*
 
 ### c. Stack ELK
-- **Elasticsearch**
-- **Logstash**
-- **Kibana**
+- **Elasticsearch** : moteur de recherche / base indexée
+- **Logstash** : pipeline de transformation des logs
+- **Kibana** : visualisation
 
 ---
 
