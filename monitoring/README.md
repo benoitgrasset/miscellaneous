@@ -128,7 +128,7 @@ Objectifs et utilisations:
 
 ---
 
-## 6. 🧪 Web Analytics / Post Logs
+## 6. 🧪 Web Analytics
 
 - **PostHog**  
   - Web analytics  
