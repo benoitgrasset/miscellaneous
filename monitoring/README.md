@@ -54,3 +54,94 @@ Objectifs et utilisations:
 - **Grafana** est principalement utilisé pour surveiller les données d'infrastructures et afficher des tableaux de bord, avec des sources de données telles que Prometheus, Graphite, Elasticsearch, InfluxDB et d'autres. Il peut également être utilisé pour la surveillance des applications.
 
 - **Kibana** est conçu pour travailler avec Elasticsearch, il est utilisé pour l'analyse des logs, la surveillance des performances et la sécurité des données. Il offre également des fonctionnalités de visualisation, de recherche et de traitement de données pour les utilisateurs d'Elastic Stack.
+
+
+# 📝 Logging & Observabilité
+
+## 1. 🔧 Côté Machine / Infrastructure
+
+### a. Reverse Proxies / Serveurs d'applications
+- **Traefik**
+- **Nginx**
+- **Caddy**
+
+### b. Hébergement
+- **PAAS** :  
+  - Heroku  
+  - Render  
+  - Coolify *(PAAS self-hosté)*
+- **VPS / Instances** :  
+  - Vercel
+
+---
+
+## 2. 💻 Frontend / Backend
+
+### a. Outils d’erreurs
+- **Sentry**  
+  - Erreurs serveurs  
+  - Erreurs clients  
+  - Erreurs browser
+
+---
+
+## 3. 📦 Logs applicatifs
+
+### a. Log des payloads
+- Kafka  
+- Stream  
+- *Utilisé pour gros volumes de données*
+
+### b. Logs côté base de données
+- **Write Ahead Log**
+- **Postgres**
+
+---
+
+## 4. 📊 Observabilité & Monitoring
+
+### a. Solutions tout-en-un
+- **Datadog**  
+  - SAAS clé en main  
+  - Monitoring complet  
+  - ⚠️ Trop cher
+- **New Relic**
+
+### b. Solutions open source
+- **Grafana**  
+  - Flexible et open source  
+  - Souvent utilisé avec Prometheus  
+  - Peut afficher les données time series  
+  - Projet auto-hébergé
+- **Prometheus**  
+- **Loki** *(stack de logs compatible Grafana)*
+
+### c. Stack ELK
+- **Elasticsearch**
+- **Logstash**
+- **Kibana**
+
+---
+
+## 5. 🔐 Logs d'authentification
+- Grafana *(via base de données optimisée avec time series)*
+
+---
+
+## 6. 🧪 Web Analytics / Post Logs
+
+- **PostHog**  
+  - Web analytics  
+  - A/B Testing  
+  - Session replay
+- **Mixpanel**
+- **Amplitude**
+
+---
+
+## 7. 🧩 Autres alternatives
+
+- **Axiom**  
+  - Alternative à Datadog  
+  - Moins coûteuse
+```
