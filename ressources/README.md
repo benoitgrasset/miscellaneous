@@ -284,6 +284,7 @@ Perfect companion for shadcn/ui.
 - [beach-patrol](https://github.com/sebastiancarlos/beachpatrol?tab=readme-ov-file)
 - https://github.com/Kaliiiiiiiiii-Vinyzu/patchright
 - https://www.npmjs.com/package/playwright-extra
+- https://www.pulpminer.com/: PulpMiner converts any webpage into a real-time JSON API by using an AI-powered scraper.
 
 ## @tanstack/react-query
 
