@@ -66,6 +66,7 @@
 
 - https://www.meilisearch.com/
 - Algolia
+- https://www.algolia.com/blog/engineering/building-a-store-locator-in-react-using-algolia-mapbox-and-twilio-part-3
 
 ## Design - UI/UX
 
