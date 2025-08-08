@@ -35,6 +35,11 @@
 - regex: https://github.com/codpro2005/ts-regexp
 - [es-toolkit](https://es-toolkit.dev/intro.html): es-toolkit is a modern JavaScript utility library that offers a collection of powerful functions for everyday use.
 
+## React-query
+
+- https://tkdodo.eu/blog/practical-react-query
+- 
+
 ## Next JS
 
 - [implementing-feature-flagging-with-nextjs-app-router](https://aurorascharff.no/posts/implementing-feature-flagging-with-nextjs-app-router/?ck_subscriber_id=2397963523&utm_source=convertkit&utm_medium=email&utm_campaign=%E2%9A%9B%EF%B8%8F%20This%20Week%20In%20React%20#201:%20TanStack,%20Remix,%20Next.js-SaaS-Starter,%20routing,%20?search,%20decoupling,%20LLM,%20Astro,%20Redwood,%20Storybook,%20Conform,%20Nitro%20Modules,%20RN%20CSS,%20Re.Pack,%20Swift,%20VisionOS,%20Lottie,%20Node.js,%20TypeScript,%20Vite,%20date-fns...%20-%2015050918) - Feature flags
