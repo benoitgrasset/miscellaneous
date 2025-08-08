@@ -36,8 +36,8 @@
 ## React-query
 
 - https://tkdodo.eu/blog/practical-react-query
-- [Supporting Offline Mode in TanStack Query](https://click.convertkit-mail4.com/5qu9lk5m6mf7hven60qu6h9pxg444sn/m2h7h6u8dl0n3vcl/aHR0cHM6Ly9sdWNhcy1iYXJha2UuZ2l0aHViLmlvL3BlcnNpc3RpbmctdGFudHNhY2stcXVlcnktZGF0YS1sb2NhbGx5Lw==)
-- [Efficient Refresh Token Implementation with React Query and Axios](https://dev.to/elmehdiamlou/efficient-refresh-token-implementation-with-react-query-and-axios-f8d?ck_subscriber_id=2397963523&utm_source=convertkit&utm_medium=email&utm_campaign=%E2%9A%9B%EF%B8%8F%20This%20Week%20In%20React%20#202:%20Next.js,%20Composition,%20search%20params,%20PPR,%20useActionState,%20content-visibility,%20Astro,%20MDX,%20Storybook,%20Priompt,%20Radon,%20Expo,%20MiniSim,%20CSS,%20Bun,%20Deno,%20Node.js...%20-%2015122494)
+- [Supporting Offline Mode in TanStack Query](https://lucas-barake.github.io/persisting-tantsack-query-data-locally/)
+- [Efficient Refresh Token Implementation with React Query and Axios](https://dev.to/elmehdiamlou/efficient-refresh-token-implementation-with-react-query-and-axios-f8d)
 
 ## Next JS
 
