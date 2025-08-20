@@ -52,7 +52,7 @@ https://artificialanalysis.ai/text-to-image/arena?tab=Leaderboard
 - https://github.com/features/copilot
 - [SuperMaven](https://supermaven.com/)
 - https://bolt.new/
---
+---
 - [Claudia](https://claudiacode.com/): Your elegant desktop companion for Claude Code
 
 ## Google
