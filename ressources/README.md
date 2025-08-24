@@ -228,6 +228,8 @@
 - [Ably](https://ably.com/)
 - [LiveBlocks](https://liveblocks.io/)
 - [Trigger.dev](https://trigger.dev/)
+- [Soketi](https://docs.soketi.app/)
+- [socket.io](https://socket.io/)
 
 ## Headless UI / unstyled components
 
