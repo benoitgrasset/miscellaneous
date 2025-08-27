@@ -158,6 +158,10 @@
 
 - [JS bundlers report](https://bundlers.tooling.report/)
 - https://rspack.dev/
+- https://esbuild.github.io/
+- parcel
+- rollup
+- webpack
 
 ## REST API
 
