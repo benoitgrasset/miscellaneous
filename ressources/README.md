@@ -150,6 +150,10 @@
 - [CSS Grid Garden](https://cssgridgarden.com/#fr)
 - [flukeout](https://flukeout.github.io/#)
 
+## Algorithm
+
+- https://samwho.dev/big-o/: big O notation
+
 ## Illustrations
 
 - [undraw](https://undraw.co/illustrations)
