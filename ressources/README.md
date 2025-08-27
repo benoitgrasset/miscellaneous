@@ -170,6 +170,12 @@
 - rolldown
 - vite
 
+## Linters
+
+- biome
+- eslint
+- oxlint (https://oxc.rs/)
+
 ## REST API
 
 - [reqbin](https://reqbin.com/) - Online REST & SOAP API Testing Tool
