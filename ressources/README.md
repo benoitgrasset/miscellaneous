@@ -227,6 +227,12 @@
 - AB Testy
 - PostHog
 
+## Static code analysis
+
+- SonarQube
+- Snyk
+- Semgrep
+
 ## Graphs
 
 - https://d3js.org/
@@ -247,6 +253,7 @@
 - [Trigger.dev](https://trigger.dev/)
 - [Soketi](https://docs.soketi.app/)
 - [socket.io](https://socket.io/)
+- [Pusher](https://pusher.com/): Pub-sub
 
 ## Headless UI / unstyled components
 
