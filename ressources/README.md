@@ -208,11 +208,12 @@
 ## Format
 
 - [FormatJS](https://formatjs.io/) - JavaScript libraries for internationalization that are focused on formatting numbers, dates, and strings
-- [Cleave.js](https://nosir.github.io/cleave.js/) - format your <input/>
+- [Cleave.js](https://nosir.github.io/cleave.js/) - format your input content when you are typing
 
 ## Calendar
 
 - [cally](https://wicky.nillia.ms/cally/)
+- calendly
 
 ## Mailing
 
