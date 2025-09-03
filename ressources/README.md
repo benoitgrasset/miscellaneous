@@ -6,6 +6,7 @@
 - [Tableau périodique des éléments HTML](https://madebymike.github.io/html5-periodic-table/#html)
 - [HTMhell](https://www.htmhell.dev/)
 - [CSS Grid Generator](https://cssgrid-generator.netlify.app/)
+- [CSS Layout Generator](https://layout.bradwoods.io/)
 - [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 - [A Complete Guide to Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
 - [Can I use](https://caniuse.com/)
