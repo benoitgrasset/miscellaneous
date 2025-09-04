@@ -3,6 +3,10 @@
 - PostGreSQL
 - MySQL
 
+## PostGreSQL
+
+https://github.com/dhamaniasad/awesome-postgres
+
 ## ORM
 
 - [Prisma](https://www.prisma.io/)
