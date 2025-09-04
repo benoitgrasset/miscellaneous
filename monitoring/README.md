@@ -64,6 +64,7 @@ Objectifs et utilisations:
 - **Traefik**
 - **Nginx**
 - **Caddy**
+- **HAProxy**
 
 ### b. Hébergement
 - **PAAS** :  
