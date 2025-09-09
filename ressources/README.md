@@ -285,6 +285,7 @@
 - https://magicui.design/: 150+ free and open-source animated components and effects built with React, Typescript, Tailwind CSS, and Motion.
 Perfect companion for shadcn/ui.
 - https://originui.com/
+- https://motion-primitives.com/: UI kit to make beautiful, animated interfaces, faster
 
 ## Shadcn-ui
 
