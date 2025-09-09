@@ -286,6 +286,7 @@
 Perfect companion for shadcn/ui.
 - https://originui.com/
 - https://motion-primitives.com/: UI kit to make beautiful, animated interfaces, faster
+- https://www.reactbits.dev/
 
 ## Shadcn-ui
 
