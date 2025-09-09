@@ -275,7 +275,7 @@
 ## Library UI Tailwind
 
 - https://ui.shadcn.com/: built on top of [radix-ui](https://www.radix-ui.com/)
-- https://www.heroui.com/: built on top of [React Aria](https://react-spectrum.adobe.com/react-aria/)
+- https://www.heroui.com/: built on top of [React Aria](https://react-spectrum.adobe.com/react-aria/) - (NextUI)
 - https://daisyui.com/
 
 ## Beautiful UI components built with Tailwind CSS
