@@ -252,6 +252,11 @@
 - https://nexus.daisyui.com/
 - https://www.basedash.com/: Connect Basedash directly to your database to build dashboards and query your data in minutes
 
+## Back Office
+
+- https://marmelab.com/shadcn-admin-kit/
+- https://marmelab.com/react-admin/Demos.html
+
 ## WebSockets
 
 - [Ably](https://ably.com/)
@@ -314,7 +319,7 @@ Perfect companion for shadcn/ui.
 - https://swapy.tahazsh.com/
 - https://atlassian.design/components/pragmatic-drag-and-drop/about
  
-## bundle phobia
+## Bundle phobia
 
 - [Node Modules Inspector](https://node-modules.dev/)
 - [pkg-size](https://pkg-size.dev/)
