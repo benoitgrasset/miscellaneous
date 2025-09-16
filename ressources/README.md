@@ -337,6 +337,10 @@ Perfect companion for shadcn/ui.
 - https://www.npmjs.com/package/playwright-extra
 - https://www.pulpminer.com/: PulpMiner converts any webpage into a real-time JSON API by using an AI-powered scraper.
 
+## Video / Audio
+
+- https://mediabunny.dev/
+
 ## @tanstack/react-query
 
 ```js
