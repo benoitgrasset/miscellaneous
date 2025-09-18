@@ -29,6 +29,8 @@ https://codelynx.dev/posts/2024-09-03-organisation-fichier-nextjs
 
 ## SEO
 
+- https://playfulprogramming.com/posts/seo-nextjs-guide
+
 ### Robots.txt
 
 Add a `robots.txt` file in the root of app directory to tell search engine crawlers which URLs they can access on your site. (or `robots.ts`)
