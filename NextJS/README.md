@@ -48,7 +48,7 @@ Add a `sitemap.xml` file int the root of app directory to help search engine cra
 - assets (CDN, compression)
 - Suspense - skeletons - optimistic updates
 - Next/Image component
-- Core Web Vitals vs Lighthouse vs Page Speed Insights (FCP: First Contentful Paint - LCP: Largest Contentful Pain - FID: First Input Delay - CLS: Cumulative Layout Shift)
+- Core Web Vitals vs Lighthouse vs Page Speed Insights (**FCP**: First Contentful Paint - **LCP**: Largest Contentful Pain - **FID**: First Input Delay - **CLS**: Cumulative Layout Shift)
 
 ### Other
 
