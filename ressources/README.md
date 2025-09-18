@@ -147,6 +147,7 @@
 - https://fonts.google.com/icons?icon.set=Material+Symbols
 - https://www.svgrepo.com/
 - https://phosphoricons.com/
+- https://lucide.dev/guide/packages/lucide-react
 
 ## Jeux
 
@@ -199,6 +200,10 @@
 - Nextjs
 - NestJs
 - Express (old)
+
+## SEO
+
+- https://playfulprogramming.com/posts/seo-nextjs-guide
 
 ## Payment Card
 
