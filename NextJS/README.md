@@ -39,6 +39,17 @@ Add a `robots.txt` file in the root of app directory to tell search engine crawl
 
 Add a `sitemap.xml` file int the root of app directory to help search engine crawlers crawl your site more efficiently. (or `sitemap.ts`)
 
+### Performance
+
+- split your code
+- use pagination
+- do not load too much data
+- avoid unnecessary renders
+- assets (CDN, compression)
+- Suspense - skeletons - optimistic updates
+- Next/Image component
+- Core Web Vitals vs Lighthouse vs Page Speed Insights (FCP: First Contentful Paint - LCP: Largest Contentful Pain - FID: First Input Delay - CLS: Cumulative Layout Shift)
+
 ### Other
 
 Google Search Console
