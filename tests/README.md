@@ -9,6 +9,7 @@
 - [BackstopJS](https://github.com/garris/BackstopJS): BackstopJS automates visual regression testing of your responsive web UI by comparing DOM screenshots over time
 - [Testing Playground](https://testing-playground.com/)
 - [BrowserStack](https://www.browserstack.com/): testing on 3000+ real devices and browsers
+- https://www.franciscomoretti.com/blog/what-tests-to-write-for-react
 
 ### Fake data
 
