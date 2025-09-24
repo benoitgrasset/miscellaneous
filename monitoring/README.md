@@ -147,4 +147,3 @@ Objectifs et utilisations:
 - **Axiom**  
   - Alternative à Datadog  
   - Moins coûteuse
-```
