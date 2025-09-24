@@ -69,7 +69,9 @@ Objectifs et utilisations:
 ### b. Hébergement
 - **PAAS** :  
   - Heroku  
-  - Render  
+  - Render
+  - Scaleway
+  - Netlify
   - Coolify *(PAAS self-hosté)*
 - **VPS / Instances** :  
   - Vercel
