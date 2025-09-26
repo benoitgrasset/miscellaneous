@@ -80,6 +80,12 @@
 
 - https://react-scan.com/
 
+## Accessibilité
+
+- https://gdkraus.github.io/accessible-modal-dialog/
+- RGAA: Référentiel général d'amélioration de l'accessibilité
+- WCAG: Web Content Accessibility Guidelines
+
 ## Search engine
 
 - https://www.meilisearch.com/
