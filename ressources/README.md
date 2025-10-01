@@ -209,6 +209,15 @@
 - NestJs
 - Express (old)
 
+## Backend Platform BaaS 
+
+- Convex
+- Sevalla
+- Directus
+- Pocketbase
+- Supabase
+- Appwrite
+
 ## SEO
 
 - https://playfulprogramming.com/posts/seo-nextjs-guide
