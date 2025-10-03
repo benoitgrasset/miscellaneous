@@ -82,9 +82,10 @@
 
 ## Accessibilité
 
-- https://gdkraus.github.io/accessible-modal-dialog/
+- https://gdkraus.github.io/accessible-modal-dialog/ - **focus trap**
 - RGAA: Référentiel général d'amélioration de l'accessibilité
 - WCAG: Web Content Accessibility Guidelines
+- https://vercel.com/design/guidelines#anchored-headings: la bible
 
 ## Search engine
 
