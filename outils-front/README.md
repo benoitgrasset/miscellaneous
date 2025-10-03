@@ -25,6 +25,7 @@ Au choix, la plupart dans l'équipe utilisent [google chrome](https://www.google
 - [YouTube No Translation](https://chromewebstore.google.com/detail/youtube-no-translation/lmkeolibdeeglfglnncmfleojmakecjb)
 - [html.to.design](https://chromewebstore.google.com/detail/htmltodesign/ldnheaepmnmbjjjahokphckbpgciiaed)
 - [Pure VPN](https://chromewebstore.google.com/detail/pure-vpn-proxy-meilleur-v/bfidboloedlamgdmenmlbipfnccokknp?hl=fr&source=korben.info)
+- [popupoff](https://chromewebstore.google.com/detail/popupoff-popup-and-overla/ifnkdbpmgkdbfklnbfidaackdenlmhgh)
 
 ## IDE
 
