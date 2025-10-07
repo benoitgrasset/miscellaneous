@@ -227,6 +227,16 @@
 - Supabase
 - Appwrite
 
+## DevOps
+
+- Coolify
+- Dockploy (Docker Swarm)
+- Portainer
+- Kubernetes
+- Docker compose
+
+Comparison | Dokploy https://share.google/tLLUuobgMXApILrOW
+
 ## SEO
 
 - https://playfulprogramming.com/posts/seo-nextjs-guide
