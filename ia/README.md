@@ -72,3 +72,9 @@ https://artificialanalysis.ai/text-to-image/arena?tab=Leaderboard
 
 - https://www.napkin.ai/: Napkin turns your text into visuals so sharing your ideas is quick and effective.
 
+## Bundler
+
+- https://www.swiftask.ai/
+- https://openrouter.ai/
+- https://mammouth.ai/
+
