@@ -313,6 +313,7 @@ Comparison | Dokploy https://share.google/tLLUuobgMXApILrOW
 - [Soketi](https://docs.soketi.app/)
 - [socket.io](https://socket.io/)
 - [Pusher](https://pusher.com/): Pub-sub
+- [inngest](https://www.inngest.com/): queues, state management, and scheduling
 
 ## Headless UI / unstyled components
 
