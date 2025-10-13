@@ -50,6 +50,19 @@ Add a `sitemap.xml` file int the root of app directory to help search engine cra
 - Next/Image component
 - Core Web Vitals vs Lighthouse vs Page Speed Insights (**FCP**: First Contentful Paint - **LCP**: Largest Contentful Pain - **FID**: First Input Delay - **CLS**: Cumulative Layout Shift)
 
+## API routes vs Server actions
+
+**Server action**
+Mutating data (create, update, delete) - POST method - no cache
+Form submission
+
+**Api routes**
+Fetching data (read)
+Streaming data, AI
+Webhooks
+Cors, custom headers
+API
+
 ## Other
 
 Google Search Console
