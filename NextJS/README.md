@@ -57,15 +57,15 @@ Add a `sitemap.xml` file int the root of app directory to help search engine cra
 ## API routes vs Server actions
 
 **Server action**
-Mutating data (create, update, delete) - POST method - no cache
-Form submission
+- Mutating data (create, update, delete): POST method - no cache
+- Form submission
 
 **Api routes**
-Fetching data (read)
-Streaming data, AI
-Webhooks
-Cors, custom headers
-API
+- Fetching data (read)
+- Streaming data, AI
+- Webhooks
+- Cors, custom headers
+- build an API
 
 ## Other
 
