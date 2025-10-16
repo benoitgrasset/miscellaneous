@@ -44,10 +44,11 @@
 
 ### Hooks
 
-- UseSyncExternalStore: ```const todos = useSyncExternalStore(todosStore.subscribe, todosStore.getSnapshot);```
-- UseEffectEvent: it allows you to use variables, state, and props in your useEffect without having to declare them as dependencies for your useEffect.
-- UseActionState: ```const [state, formAction, isPending] = useActionState(increment, 0);```
-- UseTransition: ```const [isPending, startTransition] = useTransition()```
+- `UseSyncExternalStore`: ```const todos = useSyncExternalStore(todosStore.subscribe, todosStore.getSnapshot);```
+- `UseEffectEvent`: it allows you to use variables, state, and props in your useEffect without having to declare them as dependencies for your useEffect.
+- `UseActionState`: ```const [state, formAction, isPending] = useActionState(increment, 0);```
+- `UseTransition`: ```const [isPending, startTransition] = useTransition()```
+- `useDeferredValue()`: allows you to defer rendering a part of the UI.
 
 ## React-query
 
