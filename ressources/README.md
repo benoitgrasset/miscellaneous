@@ -129,6 +129,7 @@
 - [StyleX](https://stylexjs.com/)
 - [tss-react](https://www.tss-react.dev/)
 - https://nextjs.org/docs/app/building-your-application/styling/css-in-js
+- [css-extras](https://github.com/sindresorhus/css-extras): Useful CSS custom functions using the new @​function rule
 
 ### Fonts
 
