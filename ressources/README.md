@@ -403,7 +403,7 @@ declare module '@tanstack/react-query' {
 }
 ```
 
-- https://github.com/TanStack/query/blob/main/packages/query-core/src/utils.ts: replaceEqualDeep works is by recursively traversing both the old and the new objects. It goes from the leaves to the root, and checks if data is changed. If it is structurally equal it will return the old data. If it’s not structurally equal it will merge old data with new data to a new object. This way it achieves structure sharing, and old data will be preserved and left unchanged.
+- https://github.com/TanStack/query/blob/main/packages/query-core/src/utils.ts: `replaceEqualDeep` works is by recursively traversing both the old and the new objects. It goes from the leaves to the root, and checks if data is changed. If it is structurally equal it will return the old data. If it’s not structurally equal it will merge old data with new data to a new object. This way it achieves structure sharing, and old data will be preserved and left unchanged.
 
 ## Stacks
 
