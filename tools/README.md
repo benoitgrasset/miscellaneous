@@ -14,7 +14,7 @@
 
 ## Others
 
-- [jam.dev](https://jam.dev/)
+- [jam.dev](https://jam.dev/): One click bug reports devs love
 - [Pinta](https://www.pinta-project.com/)
 
 ## Diagrammes / UML
