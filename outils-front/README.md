@@ -176,6 +176,11 @@ Pour garantir le bon fonctionnement des tests, il faut ajouter le locale dans le
 - **Son**: NoiseTorch
 - HTop, Pop meetings
 
+## Pair programing 
+
+- https://tuple.app/l/pair-programming
+- https://pop.com/
+
 ## Code quality
 
 Detect duplicated code :
