@@ -165,7 +165,7 @@ Pour garantir le bon fonctionnement des tests, il faut ajouter le locale dans le
 
 - [oh-my-zsh](https://ohmyz.sh/#install) un outil permettant de manager simplement Zsh, la shell Unix par défaut sur macos
 - [iterm2](https://iterm2.com/downloads.html) un terminal enrichi pour macos
-- [Postman](https://www.postman.com/downloads/) une plateforme pour tester son API REST
+- [Postman](https://www.postman.com/downloads/) une plateforme pour tester son API REST - alternative: [Bruno](https://www.usebruno.com/)
 - [Thunder Client](https://marketplace.visualstudio.com/items?itemName=rangav.vscode-thunder-client) une alternative de Postman directement dans VSCode
 - [maccy](https://maccy.app/) Clipboard manager for macOS
 - [ubar](https://brawersoftware.com/products/ubar) The Dock replacement for the Mac
