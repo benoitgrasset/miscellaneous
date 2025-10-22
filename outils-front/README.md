@@ -152,6 +152,7 @@ jobs:
 
 - [Homebrew](https://brew.sh/index_fr) un gestionnaire de paquets pour macos (brew command)
 - [N](https://formulae.brew.sh/formula/n) un gestionnaire de versions pour Node.js
+- [responsively](https://responsively.app/#features): test responsive designs on target screens side-by-side
 - [nvm](https://github.com/nvm-sh/nvm) Node Version Manager
 - [Node.js](https://nodejs.org/en/) le fameux runtime javascript
 - [BrowserStack](https://www.browserstack.com/): Instantly test your webpage on any desktop or mobile browser
