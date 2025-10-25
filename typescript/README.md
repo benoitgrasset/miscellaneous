@@ -142,6 +142,15 @@ The difference between primitive and non-primitive data types is that:
 - primitive data types are compared by value.
 - non-primitive data types are compared by reference.
 
+## Async loops
+
+- Promise.all() pour exécuter plusieurs promesses en parallèle.
+- Promise.allSettled() si tu veux attendre toutes les promesses, même celles qui échouent.
+- Promise.any() si tu veux juste la première qui réussit.
+- Promise.race() si tu veux la plus rapide, quelle que soit son issue.
+
+- [Rethinking async loops in JavaScript](https://allthingssmitty.com/2025/10/20/rethinking-async-loops-in-javascript/)
+
 ## Generators
 
 https://www.reactsquad.io/blog/understanding-generators-in-javascript
