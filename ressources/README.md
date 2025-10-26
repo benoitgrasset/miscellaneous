@@ -88,6 +88,7 @@
 ## Performance / debug
 
 - https://react-scan.com/
+- https://medium.com/preply-engineering/how-preply-improved-inp-on-a-next-js-application-without-react-server-components-and-app-router-491713149875
 
 ## Accessibilité
 
