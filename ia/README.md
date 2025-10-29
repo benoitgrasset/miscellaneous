@@ -55,6 +55,10 @@ https://artificialanalysis.ai/text-to-image/arena?tab=Leaderboard
 ---
 - [Claudia](https://claudiacode.com/): Your elegant desktop companion for Claude Code
 
+## Cursor
+
+- https://cursor.directory/
+
 ## Google
 
 - LaMDA - PaLM 2 - Bard - Gemini
