@@ -17,6 +17,7 @@
 
 - [statshunters](https://statshunters.com/)
 - [runalyse](https://runalyze.com/dashboard)
+- [CityStrides](CityStrides.com)
 
 
 ## Plugins Strava
