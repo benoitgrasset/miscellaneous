@@ -212,6 +212,7 @@
 ## REST API
 
 - [reqbin](https://reqbin.com/) - Online REST & SOAP API Testing Tool
+- [openapi-ts](https://github.com/hey-api/openapi-ts): The OpenAPI to TypeScript codegen.
 
 ## Backend
 
