@@ -213,7 +213,7 @@
 
 - [reqbin](https://reqbin.com/) - Online REST & SOAP API Testing Tool
 - [openapi-ts](https://github.com/hey-api/openapi-ts): The OpenAPI to TypeScript codegen
-- [scalar](https://scalar.com/): Scalar is an open-source API platform: Modern Rest API Client, Beautiful API References, 1st-Class OpenAPI/Swagger Support
+- [scalar](https://scalar.com/): Scalar is an open-source API platform: Modern Rest API Client, Beautiful API References, 1st-Class OpenAPI/Swagger Support - Alternative to **Swagger UI**
 
 ## Backend
 
