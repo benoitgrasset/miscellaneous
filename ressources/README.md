@@ -1,6 +1,18 @@
 
 +- [awesome-react](https://github.com/enaqx/awesome-react/blob/master/README.md#autocomplete) - A collection of awesome links regarding the React ecosystem
 
+## Formations
+
+- https://oboe.fyi/
+
+## Conférences
+
+- https://reactconnection.io/
+- https://www.dotjs.io/
+- https://reactsummit.com/
+- https://la-conf.typescript.paris/#tickets
+- https://react.paris/
+
 ## Liens utiles HTML/CSS/Javascript
 
 - [Tableau périodique des éléments HTML](https://madebymike.github.io/html5-periodic-table/#html)
