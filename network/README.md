@@ -41,3 +41,4 @@ bi-directional connection / hand-shaking
 
 ![websocket](https://user-images.githubusercontent.com/32497923/235453072-0c23a113-a334-4284-b643-b2e4a1c21fc4.png)
 
+### SSE - Server Sent Event
