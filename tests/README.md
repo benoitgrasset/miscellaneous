@@ -21,7 +21,7 @@
 ### Others
 
 - [microcks](https://microcks.io/documentation/getting-started/)
-
+- [playwright-checks](https://www.checklyhq.com/docs/detect/synthetic-monitoring/playwright-checks/overview/)
 
 ### Mobile
 
