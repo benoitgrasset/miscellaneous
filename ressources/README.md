@@ -93,6 +93,10 @@
 - https://www.shadcn-form.com/playground
 - https://www.formity.app/
 
+## Roles
+
+- [RBAC vs ABAC vs ReBAC: Choosing the Right Permission System in TypeScript](https://blog.webdevsimplified.com/2025-11/rbac-vs-abac-vs-rebac/)
+
 ## Parsing
 
 - papaparse
