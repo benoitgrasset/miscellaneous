@@ -32,4 +32,5 @@
 
 ## Automated tests with AI
 
-- https://www.meticulous.ai/: Cover the 1000s of edge cases of your application - without writing or maintaining a single test.
+- [meticulous.ai](https://www.meticulous.ai/): Cover the 1000s of edge cases of your application - without writing or maintaining a single test.
+- [CarbonQA](https://carbonqa.com/): provides high-quality QA services for dev teams, so you’ll never have to waste time testing your own app again.
