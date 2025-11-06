@@ -73,13 +73,17 @@
 - [implementing-feature-flagging-with-nextjs-app-router](https://aurorascharff.no/posts/implementing-feature-flagging-with-nextjs-app-router/?ck_subscriber_id=2397963523&utm_source=convertkit&utm_medium=email&utm_campaign=%E2%9A%9B%EF%B8%8F%20This%20Week%20In%20React%20#201:%20TanStack,%20Remix,%20Next.js-SaaS-Starter,%20routing,%20?search,%20decoupling,%20LLM,%20Astro,%20Redwood,%20Storybook,%20Conform,%20Nitro%20Modules,%20RN%20CSS,%20Re.Pack,%20Swift,%20VisionOS,%20Lottie,%20Node.js,%20TypeScript,%20Vite,%20date-fns...%20-%2015050918) - Feature flags
 - [Building APIs with Next.js
 ](https://nextjs.org/blog/building-apis-with-nextjs?ck_subscriber_id=2397963523&utm_source=convertkit&utm_medium=email&utm_campaign=%E2%9A%9B%EF%B8%8F%20This%20Week%20In%20React%20#81-standard-nodejs-deployment)
-- https://nuqs.47ng.com/?hello=test
 - [how-to-control-a-react-component-with-the-url](https://buildui.com/posts/how-to-control-a-react-component-with-the-url?ck_subscriber_id=2397963523&utm_source=convertkit&utm_medium=email&utm_campaign=%E2%9A%9B%EF%B8%8F%20This%20Week%20In%20React%20#202:%20Next.js,%20Composition,%20search%20params,%20PPR,%20useActionState,%20content-visibility,%20Astro,%20MDX,%20Storybook,%20Priompt,%20Radon,%20Expo,%20MiniSim,%20CSS,%20Bun,%20Deno,%20Node.js...%20-%2015122494)
 - [Managing Advanced Search Param Filtering in the Next.js App Router](https://aurorascharff.no/posts/managing-advanced-search-param-filtering-next-app-router/?ck_subscriber_id=2397963523&utm_source=convertkit&utm_medium=email&utm_campaign=%E2%9A%9B%EF%B8%8F%20This%20Week%20In%20React%20#208:%20Compiler,%20Next.js,%20TanStack%20Start,%20Docusaurus,%20nuqs,%20Storybook,%20StyleX,%20React%20Navigation,%20Shopify,%20Reanimated,%20Nitro,%20BottomTabs,%20CocoaPods,%20Maestro,%20Rolldown,%20Container%20Queries...%20-%2015560502)
 
 ## Hooks
 
 - https://usehooks-ts.com/introduction
+
+## State in URL
+
+- https://nuqs.47ng.com/?hello=test
+- https://alfy.blog/2025/10/31/your-url-is-your-state.html
 
 ## Fetch
 
