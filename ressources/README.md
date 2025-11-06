@@ -46,7 +46,6 @@
 - https://unjs.io/packages?q=&order=1&orderBy=title
 *******************************
 
-- regex: https://github.com/codpro2005/ts-regexp
 - [es-toolkit](https://es-toolkit.dev/intro.html): es-toolkit is a modern JavaScript utility library that offers a collection of powerful functions for everyday use.
 
 ## React
@@ -84,6 +83,11 @@
 
 - https://nuqs.47ng.com/?hello=test
 - https://alfy.blog/2025/10/31/your-url-is-your-state.html
+
+## Regex
+
+- [ts-regexp](https://github.com/codpro2005/ts-regexp)
+- [arkregex](https://arktype.io/docs/blog/arkregex): type-safe wrapper of new RegExp()
 
 ## Fetch
 
