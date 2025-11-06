@@ -53,6 +53,7 @@ La dernière version de Visual Studio Code se trouve [ici](https://code.visualst
 - [Glean](https://marketplace.visualstudio.com/items?itemName=wix.glean)
 - [Grammarly](https://marketplace.visualstudio.com/items?itemName=znck.grammarly) (pre-release version)
 - [Import Cost](https://marketplace.visualstudio.com/items?itemName=wix.vscode-import-cost)
+- [Jam.dev](https://chromewebstore.google.com/detail/jam/iohjgamcilhbgmhbnllfolmkmmekfmci): https://jam.dev/ - One click bug reports devs love
 - [Jest](https://marketplace.visualstudio.com/items?itemName=Orta.vscode-jest)
 - [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
 - [Npm Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.npm-intellisense)
