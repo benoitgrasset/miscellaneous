@@ -10,6 +10,7 @@
 - [Testing Playground](https://testing-playground.com/)
 - [BrowserStack](https://www.browserstack.com/): testing on 3000+ real devices and browsers
 - https://www.franciscomoretti.com/blog/what-tests-to-write-for-react
+- https://blacksheepcode.com/posts/encapsulate_as_much_state_as_possible: encapsulate the loading state of a button triggering an async action for better testing
 
 ### Fake data
 
