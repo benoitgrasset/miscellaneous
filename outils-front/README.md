@@ -151,6 +151,7 @@ jobs:
 
 ## Autres outils
 
+- [screen.now](https://screen.now/): enregistrement d'écran
 - [Homebrew](https://brew.sh/index_fr) un gestionnaire de paquets pour macos (brew command)
 - [N](https://formulae.brew.sh/formula/n) un gestionnaire de versions pour Node.js
 - https://www.tldraw.com/ - https://excalidraw.com/
