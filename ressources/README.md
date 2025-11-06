@@ -87,7 +87,7 @@
 ## Regex
 
 - [ts-regexp](https://github.com/codpro2005/ts-regexp)
-- [arkregex](https://arktype.io/docs/blog/arkregex): type-safe wrapper of new RegExp()
+- [arkregex](https://arktype.io/docs/blog/arkregex): type-safe wrapper of new `RegExp()`
 
 ## Fetch
 
