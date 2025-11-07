@@ -84,9 +84,9 @@ https://artificialanalysis.ai/text-to-image/arena?tab=Leaderboard
 
 ## AG-UI
 
-- **MCP** gives agents tools [doc copilotkit](https://docs.copilotkit.ai/connect-mcp-servers)
-- **A2A** allows agents to communicate with other agents [doc copilotkit](https://docs.copilotkit.ai/a2a-protocol)
-- **AG-UI** brings agents into user-facing applications [doc copilotkit](https://docs.copilotkit.ai/ag-ui-protocol)
+- **MCP** (Model Context Protocol) gives agents tools [doc copilotkit](https://docs.copilotkit.ai/connect-mcp-servers)
+- **A2A** (Agent-to-Agent) allows agents to communicate with other agents [doc copilotkit](https://docs.copilotkit.ai/a2a-protocol)
+- **AG-UI** (Agent User Interface) brings agents into user-facing applications [doc copilotkit](https://docs.copilotkit.ai/ag-ui-protocol)
 
 - repo: https://github.com/ag-ui-protocol/ag-ui
 - doc: https://docs.ag-ui.com/introduction
