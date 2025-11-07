@@ -59,6 +59,12 @@ https://artificialanalysis.ai/text-to-image/arena?tab=Leaderboard
 
 - https://cursor.directory/
 
+## VS Code extensions
+
+- [Cline](https://cline.bot/)
+- [Roo Code](https://marketplace.visualstudio.com/items?itemName=RooVeterinaryInc.roo-cline)
+- [Kilo Code](https://kilocode.ai/install)
+
 ## Google
 
 - LaMDA - PaLM 2 - Bard - Gemini
