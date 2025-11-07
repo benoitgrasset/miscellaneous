@@ -90,3 +90,5 @@ https://artificialanalysis.ai/text-to-image/arena?tab=Leaderboard
 
 - repo: https://github.com/ag-ui-protocol/ag-ui
 - doc: https://docs.ag-ui.com/introduction
+
+- https://www.copilotkit.ai/blog/build-your-own-ai-stock-portfolio-agent-with-agno-ag-ui
