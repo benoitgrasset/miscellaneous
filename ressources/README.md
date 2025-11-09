@@ -119,7 +119,7 @@
 - https://gdkraus.github.io/accessible-modal-dialog/ - **focus trap**
 - RGAA: Référentiel général d'amélioration de l'accessibilité
 - WCAG: Web Content Accessibility Guidelines
-- https://vercel.com/design/guidelines#anchored-headings: la bible
+- https://vercel.com/design/guidelines#anchored-headings: **la bible**
 
 ## Search engine
 
@@ -269,6 +269,9 @@ Comparison | Dokploy https://share.google/tLLUuobgMXApILrOW
 ## SEO
 
 - https://playfulprogramming.com/posts/seo-nextjs-guide
+- https://www.blogdumoderateur.com/optimiser-referencement-site-wordpress-7-conseils/
+- https://www.blogdumoderateur.com/tools/screaming-frog/
+- https://www.screamingfrog.co.uk/seo-spider/
 
 ## Payment Card
 
