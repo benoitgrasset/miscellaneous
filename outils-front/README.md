@@ -180,7 +180,8 @@ Pour garantir le bon fonctionnement des tests, il faut ajouter le locale dans le
 - **Audio**: Pavucontrol (PulseAudio VolUme Control)
 - **ABTesting**: Kameleoon
 - **Son**: NoiseTorch
-- HTop, Pop meetings
+- HTop, NeoHtop
+- Pop meetings
 
 ## Pair programing 
 
