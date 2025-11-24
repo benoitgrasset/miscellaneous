@@ -24,7 +24,7 @@
 
 Vite → Vitest → Browser Mode
 
-- Use **Vitest** for unit and integration tests in Node.js;
+- Use **Vitest** for unit and integration tests in Node.js; (replaces Jest)
 - Use **Vitest Browser Mode** for testing your components in the real browser; do not need **JSDOM** - replace Vitest and React Testing Library - RTL relies on JSDOM for simulating DOM interaction
 - Use **Playwright (@playwright/test)** for end-to-end testing your apps;
 - Use **Playwright (playwright)** for general purpose browser automation.
