@@ -1,0 +1,30 @@
+// Popover
+
+<button popovertarget="sample-dialog" popovertargetaction="toggle">
+  Open Dialog
+</button>
+
+<dialog popover id="sample-dialog">
+    <div>This is a sample dialog</div>
+    <button popovertarget="sample-dialog" popovertargetaction="hide">Close</button>
+</dialog>
+
+
+
+// Modal
+
+<button onClick="document.getElementById('sample-dialog').showModal()">
+  Open Dialog
+</button>
+<dialog id="sample-dialog">
+  <div>This is a sample dialog</div>
+  <button onClick="document.getElementById('sample-dialog').close()">
+    Close
+  </button>
+</dialog>
+
+
+  dialog::backdrop {
+    background-color: rgba(255, 255, 255, 0.3);
+    backdrop-filter: blur(5px);
+  }
