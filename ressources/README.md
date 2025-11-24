@@ -256,16 +256,6 @@
 - Supabase
 - Appwrite
 
-## DevOps
-
-- Coolify
-- Dockploy (Docker Swarm)
-- Portainer
-- Kubernetes
-- Docker compose
-
-Comparison | Dokploy https://share.google/tLLUuobgMXApILrOW
-
 ## SEO
 
 - https://playfulprogramming.com/posts/seo-nextjs-guide
@@ -393,6 +383,7 @@ Perfect companion for shadcn/ui.
 - [Kirimase](https://kirimase.dev/)
 - https://github.com/Skolaczk/next-starter
 - [Better-T-Stack](https://github.com/AmanVarshney01/create-better-t-stack)
+- [Blazity/next-enterprise](https://github.com/Blazity/next-enterprise)
 
 ## DND Drag and Drop
 
