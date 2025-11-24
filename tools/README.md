@@ -36,6 +36,11 @@
 
 - https://github.com/medialab/xan: The CSV magician
 
+## Transcription vocale
+
+- https://handy.computer/
+- https://whisperai.com/
+
 ## Others
 
 - https://numbr.dev/#new: A smart calculator combined with a notepad
