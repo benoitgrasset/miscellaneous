@@ -67,7 +67,7 @@ type Handlers = keyof HTMLElement & `on${string}`; -> filtre les clés de HTMLEl
 - NaN (Not a Number)
 
 - Nullish Coalescing Operator (??): Checks if the left operand is null or undefined (nullish values)
-- Logical OR (||): Returns the first truthy value it encounters, any falsy value (including 0, "") will trigger the right operand
+- Logical OR (||): Returns the first truthy value it encounters; any falsy value (including 0, "") will trigger the right operand
 
 ## Useful functions
 
@@ -116,6 +116,15 @@ const example1 = createFSM({
 ## TS Config
 
 https://www.totaltypescript.com/tsconfig-cheat-sheet
+
+## Typescript utility
+
+- https://github.com/mattpocock/ts-reset: A 'CSS reset' for TypeScript, improving types for common JavaScript API's
+- With ts-reset:
+- 👍 .json (in fetch) and JSON.parse both return unknown
+- ✅ .filter(Boolean) behaves EXACTLY how you expect
+- 🥹 array.includes is widened to be more ergonomic
+- 🚀 And several more changes!
 
 ## Mutability
 
@@ -173,6 +182,8 @@ pipe(toUpperCase, removeSpaces, addExclamation)
 
 ## Other
 
+```js
 const capitalize = ([firstLetter, ...restOfWord]) => {
   return firstLetter.toUpperCase() + restOfWord.join('')
 }
+``
