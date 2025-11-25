@@ -100,14 +100,16 @@
 
 - https://www.shadcn-form.com/playground
 - https://www.formity.app/
+- [react hook form](https://react-hook-form.com/)
 
-## Roles
+## Roles - authorization
 
 - [RBAC vs ABAC vs ReBAC: Choosing the Right Permission System in TypeScript](https://blog.webdevsimplified.com/2025-11/rbac-vs-abac-vs-rebac/)
+- [Authorization Best Practices and Implementation Guide](https://stack.convex.dev/authorization)
 
 ## Parsing
 
-- papaparse
+- papaparse: Parse CSV with JavaScript
 
 ## Performance / debug
 
@@ -123,7 +125,7 @@
 
 ## Search engine
 
-- https://www.meilisearch.com/
+- https://www.meilisearch.com/ 
 - Algolia
 - https://www.algolia.com/blog/engineering/building-a-store-locator-in-react-using-algolia-mapbox-and-twilio-part-3
 
