@@ -94,9 +94,10 @@ https://artificialanalysis.ai/text-to-image/arena?tab=Leaderboard
 - **A2A** (Agent-to-Agent) allows agents to communicate with other agents [doc copilotkit](https://docs.copilotkit.ai/a2a-protocol)
 - **AG-UI** (Agent User Interface) brings agents into user-facing applications [doc copilotkit](https://docs.copilotkit.ai/ag-ui-protocol)
 
-- repo: https://github.com/ag-ui-protocol/ag-ui
-- doc: https://docs.ag-ui.com/introduction
+**repo**:
+- https://github.com/ag-ui-protocol/ag-ui
 
-- https://www.copilotkit.ai/blog/build-your-own-ai-stock-portfolio-agent-with-agno-ag-ui
-  
+**documentation**:
+- https://docs.ag-ui.com/introduction
 - https://docs.ag-ui.com/tutorials/cursor: Use Cursor to build AG-UI implementations faster
+- https://www.copilotkit.ai/blog/build-your-own-ai-stock-portfolio-agent-with-agno-ag-ui
