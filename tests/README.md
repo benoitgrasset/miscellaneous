@@ -24,7 +24,7 @@
 
 Vite → Vitest → Browser Mode
 
-- Use **Vitest** for unit and integration tests in Node.js; (replaces Jest)
+- Use **Vitest** for unit and integration tests in Node.js; (replaces Jest) - a framework
 - Use **Vitest Browser Mode** for testing your components in the real browser; do not need **JSDOM** - replace Vitest and React Testing Library - RTL relies on JSDOM for simulating DOM interaction
 - Use **Playwright (@playwright/test)** for end-to-end testing your apps;
 - Use **Playwright (playwright)** for general purpose browser automation.
@@ -32,7 +32,7 @@ Vite → Vitest → Browser Mode
 - 👉 **RTL** doesn’t execute tests, doesn’t simulate a browser, and doesn’t automate pages.
 It simply interacts with the DOM you provide it. React Testing Library (RTL) is not a browser or test runner.
 It’s a DOM querying & component interaction library designed to test React components the way a user would.
-It replaces **Enzyme**.
+It replaces **Enzyme**. RTL is a library.
 
 
 ### Others
