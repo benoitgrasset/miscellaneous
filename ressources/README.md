@@ -345,7 +345,7 @@
 - https://bytebytego.com/courses/system-design-interview/design-a-rate-limiter
 - fixed window vs sliding window
 - in database - Redis
-- `429 too many requests error and X-Ratelimit-Retry-After header
+- `429` too many requests error and X-Ratelimit-Retry-After header
 
 ## Headless UI / unstyled components
 
