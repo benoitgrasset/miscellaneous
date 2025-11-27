@@ -339,6 +339,14 @@
 - [Pusher](https://pusher.com/): Pub-sub
 - [inngest](https://www.inngest.com/): queues, state management, and scheduling
 
+## Rate Limit
+
+- https://tanstack.com/pacer/latest/docs/guides/rate-limiting
+- https://bytebytego.com/courses/system-design-interview/design-a-rate-limiter
+- fixed window vs sliding window
+- in database - Redis
+- `429 too many requests error and X-Ratelimit-Retry-After header
+
 ## Headless UI / unstyled components
 
 **https://react-ui-libraries.vercel.app/**
