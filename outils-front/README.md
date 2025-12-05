@@ -104,6 +104,18 @@ Pour appliquer les corrections ESLint partout:
   },
 ```
 
+## iterm2 configuration
+
+```
+Terminal Emulator: iTerm2
+Theme: Minimal
+Color Scheme: Snazzy
+Font: FiraCode Nerd Font
+Tools: Starship, thefuck
+Shell: Fish Shell
+Configuration: matchai's Dotfiles
+```
+
 **Settings**
 
 - Preferences -> Settings -> Files: Insert Final Newline
