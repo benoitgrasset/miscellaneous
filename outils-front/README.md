@@ -207,3 +207,15 @@ Detect duplicated code :
 ```
 npx jscpd --min-lines 15 --pattern "**/*.tsx"
 ```
+
+## Outils Posthog
+
+- **Atuin** – The shell tool some “legitimately can’t live without”. It solved remembering CLI commands for them.
+
+- **Flox** – Goodbye broken developer environments. We migrated this year and “it’s worked exceptionally well for avoiding weird one off config issues.”
+
+- **0github** – A heatmap diff viewer for code reviews. The starting point for code reviews to discover sections that deserve real attention.
+
+- **Orbstack** – Basically our whole team has migrated over from Docker.
+
+- **Mergiraf** – “If you aren’t using mergiraf to solve Git merge conflicts, you are missing out.”
