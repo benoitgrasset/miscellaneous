@@ -210,6 +210,11 @@
 
 - https://samwho.dev/big-o/: big O notation
 
+## Grep
+
+- https://app.ami.dev/repogrep
+- https://github.com/mixedbread-ai/mgrep
+
 ## Illustrations
 
 - [undraw](https://undraw.co/illustrations)
