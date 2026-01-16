@@ -1,5 +1,9 @@
 ## Typescript
 
+### Doc
+
+- https://github.com/gibbok/typescript-book
+
 ```
 type ReactText = string | number;
 
