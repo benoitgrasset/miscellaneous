@@ -111,6 +111,10 @@
 
 - papaparse: Parse CSV with JavaScript
 
+## Generator
+
+- https://macarthur.me/posts/queue/
+
 ## Performance / debug
 
 - https://react-scan.com/
