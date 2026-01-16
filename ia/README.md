@@ -88,6 +88,10 @@ https://artificialanalysis.ai/text-to-image/arena?tab=Leaderboard
 - https://openrouter.ai/
 - https://mammouth.ai/
 
+## Machine Learning library
+
+- https://github.com/rodmarkun/SmolML (python)
+
 ## AG-UI
 
 - **MCP** (Model Context Protocol) gives agents tools [doc copilotkit](https://docs.copilotkit.ai/connect-mcp-servers)
