@@ -113,6 +113,7 @@
 
 ## Generator
 
+- https://www.reactsquad.io/blog/understanding-generators-in-javascript
 - https://macarthur.me/posts/queue/
 
 ## Performance / debug
