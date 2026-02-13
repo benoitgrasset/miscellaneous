@@ -84,6 +84,10 @@
 - https://nuqs.47ng.com/?hello=test
 - https://alfy.blog/2025/10/31/your-url-is-your-state.html
 
+## Undo/redo library
+
+- https://github.com/mutativejs/travels
+
 ## Regex
 
 - [ts-regexp](https://github.com/codpro2005/ts-regexp)
