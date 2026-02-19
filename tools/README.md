@@ -44,3 +44,7 @@
 ## Others
 
 - https://numbr.dev/#new: A smart calculator combined with a notepad
+
+## Open source tools
+
+- https://selfh.st/apps/
