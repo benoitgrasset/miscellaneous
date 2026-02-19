@@ -48,3 +48,4 @@
 ## Open source tools
 
 - https://selfh.st/apps/
+- https://github.com/awesome-selfhosted/awesome-selfhosted
