@@ -115,6 +115,12 @@
 
 - papaparse: Parse CSV with JavaScript
 
+## Toast
+
+- [sonner](https://sonner.emilkowal.ski/)
+- [react-hot-toast](https://react-hot-toast.com/)
+- https://emilkowal.ski/ui/building-a-toast-component
+
 ## Generator
 
 - https://www.reactsquad.io/blog/understanding-generators-in-javascript
