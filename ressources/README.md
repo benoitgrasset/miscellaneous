@@ -113,7 +113,7 @@
 
 ## Parsing
 
-- papaparse: Parse CSV with JavaScript
+- [papaparse: Parse CSV with JavaScript](https://www.papaparse.com/)
 
 ## Toast
 
