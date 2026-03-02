@@ -155,6 +155,7 @@
 - [color generator with hsl](https://www.iamsajid.com/colors/)
 - [Coolors](https://coolors.co/) or [Figma's palette generator](https://www.figma.com/color-palette-generator/)
 - https://oklch.com/#0.7,0.1,7,100
+- https://oklch.fyi/
 - https://photogradient.com/
 - https://culorijs.org/: conversion and manipulation of all formats defined in the CSS Colors Level 4 specification
 
