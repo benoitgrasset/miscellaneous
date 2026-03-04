@@ -423,7 +423,7 @@ Perfect companion for shadcn/ui.
 - https://swapy.tahazsh.com/
 - https://atlassian.design/components/pragmatic-drag-and-drop/about
  
-## Bundle phobia
+## Bundle phobia - optimisation dépendences
 
 - [Node Modules Inspector](https://node-modules.dev/)
 - [pkg-size](https://pkg-size.dev/)
