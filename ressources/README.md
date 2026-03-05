@@ -61,6 +61,18 @@
 - `UseTransition`: ```const [isPending, startTransition] = useTransition()```
 - `useDeferredValue()`: allows you to defer rendering a part of the UI.
 
+- Use `useTransition` when:
+
+You control the state update (you have access to the setter)
+You need the isPending flag to show the loading UI
+You want to wrap multiple related state updates together
+
+- Use `useDeferredValue` when:
+
+The value comes from props or external state you don’t control
+You just need a “stale” version of a value that updates later
+You’re optimizing a child component without modifying the parent
+
 ## React-query
 
 - https://tkdodo.eu/blog/practical-react-query
