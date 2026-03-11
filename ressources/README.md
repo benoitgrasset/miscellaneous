@@ -117,6 +117,7 @@ You’re optimizing a child component without modifying the parent
 - https://www.shadcn-form.com/playground
 - https://www.formity.app/
 - [react hook form](https://react-hook-form.com/)
+- https://www.smashingmagazine.com/2026/03/building-dynamic-forms-react-next-js/: Zod superRefine - React-Hook-Form - React Query
 
 ## Roles - authorization
 
