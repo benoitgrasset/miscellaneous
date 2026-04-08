@@ -454,6 +454,10 @@ Perfect companion for shadcn/ui.
 - https://www.npmjs.com/package/playwright-extra
 - https://www.pulpminer.com/: PulpMiner converts any webpage into a real-time JSON API by using an AI-powered scraper.
 
+## Skeletons
+
+- https://boneyard.vercel.app/how-it-works: Boneyard generates skeletons at build time — not at runtime.
+
 ## Video / Audio
 
 - https://mediabunny.dev/
