@@ -2,6 +2,10 @@ https://artificialanalysis.ai/
 
 https://artificialanalysis.ai/text-to-image/arena?tab=Leaderboard
 
+## Cool links
+
+- https://gitingest.com/: turn any Git repository into a simple text digest of its codebase. This is useful for feeding a codebase into any LLM.
+
 ##  LLM (Large Language Model)
 
 | **Modèle d'IA**  | **Créateur**       | **Nombre de paramètres** |
